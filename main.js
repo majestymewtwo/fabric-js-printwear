@@ -1,4 +1,5 @@
 // Product data
+// This is an extra comment
 const Product = {
   SKU: "",
   name: "",
