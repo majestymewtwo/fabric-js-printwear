@@ -1,0 +1,286 @@
+{
+  "productData": [
+    {
+      "productImage": {
+        "front": "https://firebasestorage.googleapis.com/v0/b/printwear-design.appspot.com/o/products%2Ftshirtmalefront.png?alt=media&token=43ea8927-fc6b-4afe-92c1-51b1c7476298",
+        "back": "https://firebasestorage.googleapis.com/v0/b/printwear-design.appspot.com/o/products%2Ftshirtmale.png?alt=media&token=c8b089e4-5e4d-43a8-9912-db50c7b34dd2"
+      },
+      "price": {
+        "xs": 300,
+        "s": 350,
+        "m": 400,
+        "l": 450,
+        "xl": 500
+      },
+      "canvas": {
+        "front": {
+          "startX": 524,
+          "startY": 359,
+          "width": 490,
+          "height": 950
+        },
+        "back": {
+          "startX": 245,
+          "startY": 163,
+          "width": 230,
+          "height": 450
+        }
+      },
+      "_id": "64ee9f448f9647d63b8f1a93",
+      "SKU": "TEE",
+      "name": "Test TShirt",
+      "category": "TShirts",
+      "gender": "M",
+      "description": "This is a test shirt that is currently used for testing purposes",
+      "colors": [
+        "64ee9f448f9647d63b8f1a94",
+        "64ee9f448f9647d63b8f1a99",
+        "64ee9f448f9647d63b8f1a9f"
+      ],
+      "__v": 0
+    },
+    {
+      "productImage": {
+        "front": "https://firebasestorage.googleapis.com/v0/b/printwear-design.appspot.com/o/products%2Fhoodiemalefrontwhite.png?alt=media&token=6b8377cc-7820-4510-ad56-6a48b9d5b254",
+        "back": "https://firebasestorage.googleapis.com/v0/b/printwear-design.appspot.com/o/products%2Fhoodiemalebackwhite.png?alt=media&token=7d3ec7ea-6860-4fb9-81e4-82c8f514618e"
+      },
+      "price": {
+        "xs": 400,
+        "s": 450,
+        "m": 500,
+        "l": 550,
+        "xl": 600
+      },
+      "canvas": {
+        "front": {
+          "startX": 524,
+          "startY": 359,
+          "width": 490,
+          "height": 950
+        },
+        "back": {
+          "startX": 245,
+          "startY": 163,
+          "width": 230,
+          "height": 450
+        }
+      },
+      "_id": "64f2b13f54f25afcf4534bb4",
+      "SKU": "HOOD",
+      "name": "Test Hoodie",
+      "category": "Hoodies",
+      "gender": "M",
+      "description": "This is a test hoodie that is currently used for testing purposes",
+      "colors": [
+        "64f2b13f54f25afcf4534bb5",
+        "64f2b13f54f25afcf4534bba",
+        "64f2b13f54f25afcf4534bbf"
+      ],
+      "__v": 0
+    }
+  ],
+  "colorsData": {
+    "64ee9f448f9647d63b8f1a93": [
+      {
+        "colorImage": {
+          "front": "https://firebasestorage.googleapis.com/v0/b/printwear-design.appspot.com/o/products%2Ftshirtmalefrontblack.png?alt=media&token=fa49f21f-4e3e-4eeb-9706-79a1899348a2",
+          "back": "https://firebasestorage.googleapis.com/v0/b/printwear-design.appspot.com/o/products%2Ftshirtmalebackblack.png?alt=media&token=596538fb-5625-434d-846d-f3fdccb612bf"
+        },
+        "_id": "64ee9f448f9647d63b8f1a99",
+        "colorName": "black",
+        "colorSKU": "BLK",
+        "sizes": [
+          {
+            "sizeSKU": "XSM",
+            "size": "XS",
+            "stock": 15,
+            "_id": "64ee9f448f9647d63b8f1a9a"
+          },
+          {
+            "sizeSKU": "SM",
+            "size": "S",
+            "stock": 17,
+            "_id": "64ee9f448f9647d63b8f1a9b"
+          },
+          {
+            "sizeSKU": "MD",
+            "size": "M",
+            "stock": 16,
+            "_id": "64ee9f448f9647d63b8f1a9c"
+          },
+          {
+            "sizeSKU": "XLG",
+            "size": "XL",
+            "stock": 10,
+            "_id": "64ee9f448f9647d63b8f1a9d"
+          }
+        ],
+        "productId": "64ee9f448f9647d63b8f1a93",
+        "__v": 0,
+        "colorCode": "#000"
+      },
+      {
+        "colorImage": {
+          "front": "https://firebasestorage.googleapis.com/v0/b/printwear-design.appspot.com/o/products%2Ftshirtmalefrontred.png?alt=media&token=5376a01a-8801-4885-b118-f1f69176bd1c",
+          "back": "https://firebasestorage.googleapis.com/v0/b/printwear-design.appspot.com/o/products%2Ftshirtmalebackred.png?alt=media&token=7cb894bc-3456-4647-8fcc-46ab256dc3d3"
+        },
+        "_id": "64ee9f448f9647d63b8f1a9f",
+        "colorName": "red",
+        "colorSKU": "RED",
+        "sizes": [
+          {
+            "sizeSKU": "SM",
+            "size": "S",
+            "stock": 1,
+            "_id": "64ee9f448f9647d63b8f1aa0"
+          },
+          {
+            "sizeSKU": "MD",
+            "size": "M",
+            "stock": 0,
+            "_id": "64ee9f448f9647d63b8f1aa1"
+          },
+          {
+            "sizeSKU": "LG",
+            "size": "L",
+            "stock": 11,
+            "_id": "64ee9f448f9647d63b8f1aa2"
+          }
+        ],
+        "productId": "64ee9f448f9647d63b8f1a93",
+        "__v": 0,
+        "colorCode": "#ff0000"
+      },
+      {
+        "colorImage": {
+          "front": "https://firebasestorage.googleapis.com/v0/b/printwear-design.appspot.com/o/products%2Ftshirtmalefront.png?alt=media&token=43ea8927-fc6b-4afe-92c1-51b1c7476298",
+          "back": "https://firebasestorage.googleapis.com/v0/b/printwear-design.appspot.com/o/products%2Ftshirtmale.png?alt=media&token=c8b089e4-5e4d-43a8-9912-db50c7b34dd2"
+        },
+        "_id": "64ee9f448f9647d63b8f1a94",
+        "colorName": "white",
+        "colorSKU": "WHT",
+        "sizes": [
+          {
+            "sizeSKU": "MD",
+            "size": "M",
+            "stock": 5,
+            "_id": "64ee9f448f9647d63b8f1a95"
+          },
+          {
+            "sizeSKU": "SM",
+            "size": "S",
+            "stock": 7,
+            "_id": "64ee9f448f9647d63b8f1a96"
+          },
+          {
+            "sizeSKU": "LG",
+            "size": "L",
+            "stock": 12,
+            "_id": "64ee9f448f9647d63b8f1a97"
+          }
+        ],
+        "productId": "64ee9f448f9647d63b8f1a93",
+        "__v": 0,
+        "colorCode": "#fff"
+      }
+    ],
+    "64f2b13f54f25afcf4534bb4": [
+      {
+        "colorImage": {
+          "front": "https://firebasestorage.googleapis.com/v0/b/printwear-design.appspot.com/o/products%2Fhoodiemalefrontwhite.png?alt=media&token=6b8377cc-7820-4510-ad56-6a48b9d5b254",
+          "back": "https://firebasestorage.googleapis.com/v0/b/printwear-design.appspot.com/o/products%2Fhoodiemalebackwhite.png?alt=media&token=7d3ec7ea-6860-4fb9-81e4-82c8f514618e"
+        },
+        "_id": "64f2b13f54f25afcf4534bb5",
+        "colorName": "white",
+        "colorSKU": "WHT",
+        "colorCode": "#fff",
+        "sizes": [
+          {
+            "sizeSKU": "SM",
+            "size": "S",
+            "stock": 3,
+            "_id": "64f2b13f54f25afcf4534bb6"
+          },
+          {
+            "sizeSKU": "MD",
+            "size": "M",
+            "stock": 9,
+            "_id": "64f2b13f54f25afcf4534bb7"
+          },
+          {
+            "sizeSKU": "LG",
+            "size": "L",
+            "stock": 10,
+            "_id": "64f2b13f54f25afcf4534bb8"
+          }
+        ],
+        "productId": "64f2b13f54f25afcf4534bb4",
+        "__v": 0
+      },
+      {
+        "colorImage": {
+          "front": "https://firebasestorage.googleapis.com/v0/b/printwear-design.appspot.com/o/products%2Fhoodiemalefrontblack.png?alt=media&token=8500e6ef-77fc-4449-8044-45b5ba248c45",
+          "back": "https://firebasestorage.googleapis.com/v0/b/printwear-design.appspot.com/o/products%2Fhoodiemalebackblack.png?alt=media&token=b8f3c471-a0d9-4999-966e-a89e87b6b476"
+        },
+        "_id": "64f2b13f54f25afcf4534bba",
+        "colorName": "black",
+        "colorSKU": "BLK",
+        "colorCode": "#313131",
+        "sizes": [
+          {
+            "sizeSKU": "XSM",
+            "size": "XS",
+            "stock": 10,
+            "_id": "64f2b13f54f25afcf4534bbb"
+          },
+          {
+            "sizeSKU": "SM",
+            "size": "S",
+            "stock": 7,
+            "_id": "64f2b13f54f25afcf4534bbc"
+          },
+          {
+            "sizeSKU": "MD",
+            "size": "M",
+            "stock": 6,
+            "_id": "64f2b13f54f25afcf4534bbd"
+          }
+        ],
+        "productId": "64f2b13f54f25afcf4534bb4",
+        "__v": 0
+      },
+      {
+        "colorImage": {
+          "front": "https://firebasestorage.googleapis.com/v0/b/printwear-design.appspot.com/o/products%2Fhoodiemalefrontred.png?alt=media&token=fe6afdd3-eacf-47a3-8814-8113b3b78971",
+          "back": "https://firebasestorage.googleapis.com/v0/b/printwear-design.appspot.com/o/products%2Fhoodiemalebackred.png?alt=media&token=67474d4f-e96c-4e8e-919b-91725d58689b"
+        },
+        "_id": "64f2b13f54f25afcf4534bbf",
+        "colorName": "red",
+        "colorSKU": "RED",
+        "colorCode": "#f24660",
+        "sizes": [
+          {
+            "sizeSKU": "SM",
+            "size": "S",
+            "stock": 4,
+            "_id": "64f2b13f54f25afcf4534bc0"
+          },
+          {
+            "sizeSKU": "MD",
+            "size": "M",
+            "stock": 9,
+            "_id": "64f2b13f54f25afcf4534bc1"
+          },
+          {
+            "sizeSKU": "LG",
+            "size": "L",
+            "stock": 0,
+            "_id": "64f2b13f54f25afcf4534bc2"
+          }
+        ],
+        "productId": "64f2b13f54f25afcf4534bb4",
+        "__v": 0
+      }
+    ]
+  }
+}

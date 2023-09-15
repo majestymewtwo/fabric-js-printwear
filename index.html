@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Printwear</title>
+    <link rel="stylesheet" href="main.css" />
+    <script src="https://cdn.jsdelivr.net/npm/fabric@4.5.1/dist/fabric.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/dom-to-image/2.6.0/dom-to-image.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/FileSaver.js/2.0.2/FileSaver.min.js"></script>
+  </head>
+  <body>
+    <div class="App">
+      <div class="left-box">
+        <h1 class="heading">T-Shirt Designer</h1>
+        <div id="product-design">
+          <div class="template-div" id="mockup-image-canvas">
+            <!-- Mockup image goes here -->
+            <img src="" alt="mockup-image" id="mockup-image" />
+          </div>
+        </div>
+      </div>
+      <div class="right-box">
+        <!-- Upload design image input -->
+        <div>
+          <label for="design-input" class="design-input-label">
+            Upload Design
+          </label>
+          <input
+            id="design-input"
+            type="file"
+            accept=".png, .jpg, .jpeg"
+            style="display: none"
+            onchange="addImageToCanvas(event)" />
+        </div>
+        <!-- Design Side -->
+        <div class="list">
+          <button onclick="changeSide('front')">Front</button>
+          <button onclick="changeSide('back')">Back</button>
+        </div>
+        <!-- Position of design image -->
+        <div>
+          <h3>Position</h3>
+          <div class="list">
+            <button onclick="setPosition('top-left')">Top Left</button>
+            <button onclick="setPosition('top-right')">Top Right</button>
+            <button onclick="setPosition('bottom-left')">Bottom Left</button>
+            <button onclick="setPosition('bottom-right')">Bottom Right</button>
+            <button onclick="setPosition('center')">Center</button>
+            <button onclick="setPosition('custom')">Custom</button>
+          </div>
+        </div>
+        <!-- Color Options Will Be Displayed -->
+        <div class="color-list"></div>
+        <!-- Size options will be displayed -->
+        <div class="size-list"></div>
+        <!-- Design Image Stats -->
+        <div class="design-stats">
+          <p class="height-design"></p>
+          <p class="width-design"></p>
+        </div>
+        <!-- Save Image -->
+        <div>
+          <button onclick="saveImage()">Save Image</button>
+        </div>
+      </div>
+    </div>
+    <script src="main.js"></script>
+  </body>
+</html>

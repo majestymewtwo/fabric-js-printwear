@@ -1,0 +1,5320 @@
+{
+  "BW MENS": {
+    "brand": "BEWAKOOF",
+    "manufacturer": "PRINTWEAR",
+    "colors": {
+      "Black": {
+        "sizes": {
+          "2XL": {
+            "id": "650580000000035017",
+            "name": "BW MENS RN BLACK-2XL",
+            "stock": 60,
+            "price": 550,
+            "sku": "BWRNBK2XL-M"
+          },
+          "3XL": {
+            "id": "650580000000035019",
+            "name": "BW MENS RN BLACK-3XL",
+            "stock": 50,
+            "price": 150,
+            "sku": "BWRNBK3XL-M"
+          },
+          "4XL": {
+            "id": "650580000000035021",
+            "name": "BW MENS RN BLACK-4XL",
+            "stock": 100,
+            "price": 150,
+            "sku": "BWRNBK4XL-M"
+          },
+          "5XL": {
+            "id": "650580000000035023",
+            "name": "BW MENS RN BLACK-5XL",
+            "stock": 0,
+            "price": 150,
+            "sku": "BWRNBK5XL-M"
+          },
+          "L": {
+            "id": "650580000000035013",
+            "name": "BW MENS RN BLACK-L",
+            "stock": 200,
+            "price": 150,
+            "sku": "BWRNBKL-M"
+          },
+          "M": {
+            "id": "650580000000035011",
+            "name": "BW MENS RN BLACK-M",
+            "stock": 100,
+            "price": 150,
+            "sku": "BWRNBKM-M"
+          },
+          "S": {
+            "id": "650580000000035009",
+            "name": "BW MENS RN BLACK-S",
+            "stock": 0,
+            "price": 150,
+            "sku": "BWRNBKS-M"
+          },
+          "XL": {
+            "id": "650580000000035015",
+            "name": "BW MENS RN BLACK-XL",
+            "stock": 0,
+            "price": 150,
+            "sku": "BWRNBKXL-M"
+          },
+          "XS": {
+            "id": "650580000000035007",
+            "name": "BW MENS RN BLACK-XS",
+            "stock": 0,
+            "price": 150,
+            "sku": "BWRNBKXS-M"
+          }
+        }
+      }
+    }
+  },
+  "BW WOMENS": {
+    "brand": "BEWAKOOF",
+    "manufacturer": "PRINTWEAR",
+    "colors": {
+      "Black": {
+        "sizes": {
+          "2XL": {
+            "id": "650580000000035093",
+            "name": "BW WOMENS RN BLACK-2XL",
+            "stock": 0,
+            "price": 150,
+            "sku": "BWRNBK2XL-W"
+          },
+          "3XL": {
+            "id": "650580000000035095",
+            "name": "BW WOMENS RN BLACK-3XL",
+            "stock": 0,
+            "price": 150,
+            "sku": "BWRNBK3XL-W"
+          },
+          "4XL": {
+            "id": "650580000000035097",
+            "name": "BW WOMENS RN BLACK-4XL",
+            "stock": 0,
+            "price": 150,
+            "sku": "BWRNBK4XL-W"
+          },
+          "5XL": {
+            "id": "650580000000035099",
+            "name": "BW WOMENS RN BLACK-5XL",
+            "stock": 0,
+            "price": 150,
+            "sku": "BWRNBK5XL-W"
+          },
+          "L": {
+            "id": "650580000000035089",
+            "name": "BW WOMENS RN BLACK-L",
+            "stock": 0,
+            "price": 150,
+            "sku": "BWRNBKL-W"
+          },
+          "M": {
+            "id": "650580000000035087",
+            "name": "BW WOMENS RN BLACK-M",
+            "stock": 0,
+            "price": 150,
+            "sku": "BWRNBKM-W"
+          },
+          "S": {
+            "id": "650580000000035085",
+            "name": "BW WOMENS RN BLACK-S",
+            "stock": 0,
+            "price": 150,
+            "sku": "BWRNBKS-W"
+          },
+          "XL": {
+            "id": "650580000000035091",
+            "name": "BW WOMENS RN BLACK-XL",
+            "stock": 0,
+            "price": 150,
+            "sku": "BWRNBKXL-W"
+          },
+          "XS": {
+            "id": "650580000000035083",
+            "name": "BW WOMENS RN BLACK-XS",
+            "stock": 0,
+            "price": 150,
+            "sku": "BWRNBKXS-W"
+          }
+        }
+      }
+    }
+  },
+  "Hoodie": {
+    "brand": "",
+    "manufacturer": "",
+    "colors": {
+      "Black": {
+        "sizes": {
+          "2XL": {
+            "id": "650580000000031305",
+            "name": "Hoodies  Black -  2XL",
+            "stock": 9,
+            "price": 500,
+            "sku": "PWHBK2XL-001H"
+          },
+          "L": {
+            "id": "650580000000031301",
+            "name": "Hoodies  Black -  L",
+            "stock": 30,
+            "price": 490,
+            "sku": "PWHBKL-001H"
+          },
+          "M": {
+            "id": "650580000000031299",
+            "name": "Hoodies  Black -  M",
+            "stock": 17,
+            "price": 490,
+            "sku": "PWHBKM-001H"
+          },
+          "S": {
+            "id": "650580000000031297",
+            "name": "Hoodies  Black -  S",
+            "stock": 13,
+            "price": 490,
+            "sku": "PWHBKS-001H"
+          },
+          "XL": {
+            "id": "650580000000031303",
+            "name": "Hoodies  Black -  XL",
+            "stock": 27,
+            "price": 490,
+            "sku": "PWHBKXL-001H"
+          },
+          "3XL": {
+            "id": "650580000001966029",
+            "name": "Hoodies  Black -  3XL",
+            "stock": 0,
+            "price": 530,
+            "sku": "PWHBK3XL-001H"
+          },
+          "4XL": {
+            "id": "650580000001975001",
+            "name": "Hoodies  Black -  4XL",
+            "stock": 5,
+            "price": 530,
+            "sku": "PWHBK4XL-001H"
+          },
+          "5XL": {
+            "id": "650580000001967053",
+            "name": "Hoodies  Black -  5XL",
+            "stock": 5,
+            "price": 530,
+            "sku": "PWHBK5XL-001H"
+          },
+          "6XL": {
+            "id": "650580000001975104",
+            "name": "Hoodies  Black -  6XL",
+            "stock": 5,
+            "price": 530,
+            "sku": "PWHBK6XL-007H"
+          }
+        }
+      },
+      "Charcoal Melange": {
+        "sizes": {
+          "2XL": {
+            "id": "650580000000031349",
+            "name": "Hoodies  Charcoal Melange -  2XL",
+            "stock": 8,
+            "price": 500,
+            "sku": "PWHCM2XL-010H"
+          },
+          "L": {
+            "id": "650580000000031345",
+            "name": "Hoodies  Charcoal Melange -  L",
+            "stock": 10,
+            "price": 490,
+            "sku": "PWHCML-010H"
+          },
+          "M": {
+            "id": "650580000000031343",
+            "name": "Hoodies  Charcoal Melange -  M",
+            "stock": 6,
+            "price": 490,
+            "sku": "PWHCMM-010H"
+          },
+          "S": {
+            "id": "650580000000031341",
+            "name": "Hoodies  Charcoal Melange -  S",
+            "stock": 10,
+            "price": 490,
+            "sku": "PWHCMS-010H"
+          },
+          "XL": {
+            "id": "650580000000031347",
+            "name": "Hoodies  Charcoal Melange -  XL",
+            "stock": 10,
+            "price": 490,
+            "sku": "PWHCMXL-010H"
+          }
+        }
+      },
+      "Ecru Melange": {
+        "sizes": {
+          "2XL": {
+            "id": "650580000000031393",
+            "name": "Hoodies  Ecru Melange -  2XL",
+            "stock": 10,
+            "price": 500,
+            "sku": "PWHEM2XL-012H"
+          },
+          "L": {
+            "id": "650580000000031389",
+            "name": "Hoodies  Ecru Melange -  L",
+            "stock": 6,
+            "price": 490,
+            "sku": "PWHEML-012H"
+          },
+          "M": {
+            "id": "650580000000031387",
+            "name": "Hoodies  Ecru Melange -  M",
+            "stock": 1,
+            "price": 490,
+            "sku": "PWHEMM-012H"
+          },
+          "S": {
+            "id": "650580000000031385",
+            "name": "Hoodies  Ecru Melange -  S",
+            "stock": 10,
+            "price": 490,
+            "sku": "PWHEMS-012H"
+          },
+          "XL": {
+            "id": "650580000000031391",
+            "name": "Hoodies  Ecru Melange -  XL",
+            "stock": 9,
+            "price": 490,
+            "sku": "PWHEMXL-012H"
+          }
+        }
+      },
+      "Grey Melange": {
+        "sizes": {
+          "2XL": {
+            "id": "650580000000031437",
+            "name": "Hoodies  Grey Melange -  2XL",
+            "stock": 200,
+            "price": 500,
+            "sku": "PWHGM2XL-011H"
+          },
+          "L": {
+            "id": "650580000000031433",
+            "name": "Hoodies  Grey Melange -  L",
+            "stock": 194,
+            "price": 490,
+            "sku": "PWHGML-011H"
+          },
+          "M": {
+            "id": "650580000000031431",
+            "name": "Hoodies  Grey Melange -  M",
+            "stock": 200,
+            "price": 490,
+            "sku": "PWHGMM-011H"
+          },
+          "S": {
+            "id": "650580000000031429",
+            "name": "Hoodies  Grey Melange -  S",
+            "stock": 200,
+            "price": 490,
+            "sku": "PWHGMS-011H"
+          },
+          "XL": {
+            "id": "650580000000031435",
+            "name": "Hoodies  Grey Melange -  XL",
+            "stock": 200,
+            "price": 490,
+            "sku": "PWHGMXL-011H"
+          }
+        }
+      },
+      "Mustard Yellow": {
+        "sizes": {
+          "2XL": {
+            "id": "650580000000192548",
+            "name": "Hoodies  Mustard Yellow -  2XL",
+            "stock": 0,
+            "price": 500,
+            "sku": "PWRNMY3XL-004H"
+          },
+          "L": {
+            "id": "650580000000194190",
+            "name": "Hoodies  Mustard Yellow -  L",
+            "stock": 193,
+            "price": 490,
+            "sku": "PWRNMYL-004H"
+          },
+          "M": {
+            "id": "650580000000192573",
+            "name": "Hoodies  Mustard Yellow -  M",
+            "stock": 192,
+            "price": 490,
+            "sku": "PWRNMYM-004H"
+          },
+          "S": {
+            "id": "650580000000195252",
+            "name": "Hoodies  Mustard Yellow -  S",
+            "stock": 198,
+            "price": 490,
+            "sku": "PWRNMYS-004H"
+          },
+          "XL": {
+            "id": "650580000000193142",
+            "name": "Hoodies  Mustard Yellow -  XL",
+            "stock": 197,
+            "price": 430,
+            "sku": "PWRNMYXL-004H"
+          }
+        }
+      },
+      "Navy Blue": {
+        "sizes": {
+          "2XL": {
+            "id": "650580000000031481",
+            "name": "Hoodies  Navy Blue -  2XL",
+            "stock": 200,
+            "price": 500,
+            "sku": "PWHNB2XL-007H"
+          },
+          "L": {
+            "id": "650580000000031477",
+            "name": "Hoodies  Navy Blue -  L",
+            "stock": 196,
+            "price": 490,
+            "sku": "PWHNBL-007H"
+          },
+          "M": {
+            "id": "650580000000031475",
+            "name": "Hoodies  Navy Blue -  M",
+            "stock": 194,
+            "price": 490,
+            "sku": "PWHNBM-007H"
+          },
+          "S": {
+            "id": "650580000000031473",
+            "name": "Hoodies  Navy Blue -  S",
+            "stock": 192,
+            "price": 490,
+            "sku": "PWHNBS-007H"
+          },
+          "XL": {
+            "id": "650580000000031479",
+            "name": "Hoodies  Navy Blue -  XL",
+            "stock": 194,
+            "price": 490,
+            "sku": "PWHNBXL-007H"
+          },
+          "3XL": {
+            "id": "650580000001965057",
+            "name": "Hoodies  Navy Blue -  3XL",
+            "stock": 5,
+            "price": 530,
+            "sku": "PWHNB3XL-007H"
+          },
+          "4XL": {
+            "id": "650580000001975030",
+            "name": "Hoodies  Navy Blue -  4XL",
+            "stock": 5,
+            "price": 530,
+            "sku": "PWHNB4XL-007H"
+          },
+          "5XL": {
+            "id": "650580000001973027",
+            "name": "Hoodies  Navy Blue -  5XL",
+            "stock": 5,
+            "price": 530,
+            "sku": "PWHNB5XL-007H"
+          },
+          "6XL": {
+            "id": "650580000001972002",
+            "name": "Hoodies  Navy Blue -  6XL",
+            "stock": 1,
+            "price": 530,
+            "sku": "PWHNB6XL-007H"
+          }
+        }
+      },
+      "Red": {
+        "sizes": {
+          "2XL": {
+            "id": "650580000000195277",
+            "name": "Hoodies  Red -  2XL",
+            "stock": 199,
+            "price": 500,
+            "sku": "PWHDRD2XL-005H"
+          },
+          "3XL": {
+            "id": "650580000001976001",
+            "name": "Hoodies  Red -  3XL",
+            "stock": 3,
+            "price": 530,
+            "sku": "PWHRD3XL-007H"
+          },
+          "4XL": {
+            "id": "650580000001975059",
+            "name": "Hoodies  Red -  4XL",
+            "stock": 1,
+            "price": 530,
+            "sku": "PWHRD4XL-007H"
+          },
+          "5XL": {
+            "id": "650580000001973056",
+            "name": "Hoodies  Red -  5XL",
+            "stock": 0,
+            "price": 530,
+            "sku": "PWHRD5XL-007H"
+          },
+          "6XL": {
+            "id": "650580000001975133",
+            "name": "Hoodies  Red -  6XL",
+            "stock": 1,
+            "price": 530,
+            "sku": "PWHRD6XL-007H"
+          },
+          "M": {
+            "id": "650580000000197087",
+            "name": "Hoodies  Red -  M",
+            "stock": 199,
+            "price": 490,
+            "sku": "PWHDRDM-005H"
+          },
+          "S": {
+            "id": "650580000000192640",
+            "name": "Hoodies  Red -  S",
+            "stock": 198,
+            "price": 490,
+            "sku": "PWHDRDS-005H"
+          },
+          "XL": {
+            "id": "650580000000194235",
+            "name": "Hoodies  Red -  XL",
+            "stock": 192,
+            "price": 490,
+            "sku": "PWHDRDXL-005H"
+          },
+          "L": {
+            "id": "650580000000174277",
+            "name": "Hoodies Red, L",
+            "price": 0,
+            "sku": "PWHDRDL-005H"
+          }
+        }
+      },
+      "White": {
+        "sizes": {
+          "3XL": {
+            "id": "650580000001968027",
+            "name": "Hoodies  White -  3XL",
+            "stock": 2,
+            "price": 520,
+            "sku": "PWHWH3XL-007H"
+          },
+          "4XL": {
+            "id": "650580000001973065",
+            "name": "Hoodies  White -  4XL",
+            "stock": 1,
+            "price": 530,
+            "sku": "PWHWH4XL-007H"
+          },
+          "5XL": {
+            "id": "650580000001969053",
+            "name": "Hoodies  White -  5XL",
+            "stock": 1,
+            "price": 530,
+            "sku": "PWHWH5XL-007H"
+          },
+          "6XL": {
+            "id": "650580000001969082",
+            "name": "Hoodies  White -  6XL",
+            "stock": 0,
+            "price": 530,
+            "sku": "PWHWH6XL-007H"
+          },
+          "L": {
+            "id": "650580000000194260",
+            "name": "Hoodies  White -  L",
+            "stock": 17,
+            "price": 490,
+            "sku": "PWHDWHL-001H"
+          },
+          "M": {
+            "id": "650580000000193168",
+            "name": "Hoodies  White -  M",
+            "stock": 10,
+            "price": 490,
+            "sku": "PWHDWHM-001H"
+          },
+          "S": {
+            "id": "650580000000194285",
+            "name": "Hoodies  White -  S",
+            "stock": 5,
+            "price": 490,
+            "sku": "PWHDWHS-001H"
+          },
+          "XL": {
+            "id": "650580000000194310",
+            "name": "Hoodies  White -  XL",
+            "stock": 8,
+            "price": 490,
+            "sku": "PWHDWHXL-001H"
+          },
+          "2XL": {
+            "id": "650580000000168057",
+            "name": "Hoodies White, 2XL",
+            "price": 0,
+            "sku": "PWHDWH2XL-001H"
+          }
+        }
+      }
+    }
+  },
+  "Kids Half Sleeve": {
+    "brand": "",
+    "manufacturer": "",
+    "colors": {
+      "Army Green": {
+        "sizes": {
+          "0-1yrs": {
+            "id": "650580000000186635",
+            "name": "Kids Half Sleeve Round Neck T-Shirt  Army Green -  0-1YRS",
+            "stock": 200,
+            "price": 135,
+            "sku": "PWRNAG0-011K"
+          },
+          "10-11yrs": {
+            "id": "650580000000189374",
+            "name": "Kids Half Sleeve Round Neck T-Shirt  Army Green -  10-11YRS",
+            "stock": 200,
+            "price": 135,
+            "sku": "PWRNAG9-011K"
+          },
+          "12-13yrs": {
+            "id": "650580000000185517",
+            "name": "Kids Half Sleeve Round Neck T-Shirt  Army Green -  12-13YRS",
+            "stock": 200,
+            "price": 155,
+            "sku": "PWRNAG11-011K"
+          },
+          "14-15yrs": {
+            "id": "650580000000186660",
+            "name": "Kids Half Sleeve Round Neck T-Shirt  Army Green -  14-15YRS",
+            "stock": 200,
+            "price": 160,
+            "sku": "PWRNAG13-011K"
+          },
+          "16-17yrs": {
+            "id": "650580000000186685",
+            "name": "Kids Half Sleeve Round Neck T-Shirt  Army Green -  16-17YRS",
+            "stock": 200,
+            "price": 160,
+            "sku": "PWRNAG15-011K"
+          },
+          "2-3yrs": {
+            "id": "650580000000185492",
+            "name": "Kids Half Sleeve Round Neck T-Shirt  Army Green -  2-3YRS",
+            "stock": 200,
+            "price": 135,
+            "sku": "PWRNAG1-011K"
+          },
+          "4-5yrs": {
+            "id": "650580000000185542",
+            "name": "Kids Half Sleeve Round Neck T-Shirt  Army Green -  4-5YRS",
+            "stock": 200,
+            "price": 135,
+            "sku": "PWRNAG3-011K"
+          },
+          "6-7yrs": {
+            "id": "650580000000187691",
+            "name": "Kids Half Sleeve Round Neck T-Shirt  Army Green -  6-7YRS",
+            "stock": 200,
+            "price": 135,
+            "sku": "PWRNAG5-011K"
+          },
+          "8-9yrs": {
+            "id": "650580000000186710",
+            "name": "Kids Half Sleeve Round Neck T-Shirt  Army Green -  8-9YRS",
+            "stock": 200,
+            "price": 135,
+            "sku": "PWRNAG7-011K"
+          }
+        }
+      },
+      "Beige": {
+        "sizes": {
+          "0-1yrs": {
+            "id": "650580000000186735",
+            "name": "Kids Half Sleeve Round Neck T-Shirt  Beige -  0-1YRS",
+            "stock": 200,
+            "price": 135,
+            "sku": "PWRNBEI0-011K"
+          },
+          "10-11yrs": {
+            "id": "650580000000189399",
+            "name": "Kids Half Sleeve Round Neck T-Shirt  Beige -  10-11YRS",
+            "stock": 200,
+            "price": 135,
+            "sku": "PWRNBEI9-011K"
+          },
+          "12-13yrs": {
+            "id": "650580000000184605",
+            "name": "Kids Half Sleeve Round Neck T-Shirt  Beige -  12-13YRS",
+            "stock": 200,
+            "price": 155,
+            "sku": "PWRNBEI11-011K"
+          },
+          "14-15yrs": {
+            "id": "650580000000187716",
+            "name": "Kids Half Sleeve Round Neck T-Shirt  Beige -  14-15YRS",
+            "stock": 200,
+            "price": 160,
+            "sku": "PWRNBEI13-011K"
+          },
+          "16-17yrs": {
+            "id": "650580000000184630",
+            "name": "Kids Half Sleeve Round Neck T-Shirt  Beige -  16-17YRS",
+            "stock": 200,
+            "price": 160,
+            "sku": "PWRNBEI15-011K"
+          },
+          "2-3yrs": {
+            "id": "650580000000188668",
+            "name": "Kids Half Sleeve Round Neck T-Shirt  Beige -  2-3YRS",
+            "stock": 200,
+            "price": 135,
+            "sku": "PWRNBEI1-011K"
+          },
+          "4-5yrs": {
+            "id": "650580000000185567",
+            "name": "Kids Half Sleeve Round Neck T-Shirt  Beige -  4-5YRS",
+            "stock": 200,
+            "price": 135,
+            "sku": "PWRNBEI3-011K"
+          },
+          "6-7yrs": {
+            "id": "650580000000187741",
+            "name": "Kids Half Sleeve Round Neck T-Shirt  Beige -  6-7YRS",
+            "stock": 199,
+            "price": 135,
+            "sku": "PWRNBEI5-011K"
+          },
+          "8-9yrs": {
+            "id": "650580000000187766",
+            "name": "Kids Half Sleeve Round Neck T-Shirt  Beige -  8-9YRS",
+            "stock": 200,
+            "price": 135,
+            "sku": "PWRNBEI7-011K"
+          }
+        }
+      },
+      "Black": {
+        "sizes": {
+          "0-1yrs": {
+            "id": "650580000000186760",
+            "name": "Kids Half Sleeve Round Neck T-Shirt  Black -  0-1YRS",
+            "stock": 199,
+            "price": 135,
+            "sku": "PWRNBK0-002K"
+          },
+          "10-11yrs": {
+            "id": "650580000000186839",
+            "name": "Kids Half Sleeve Round Neck T-Shirt  Black -  10-11YRS",
+            "stock": 197,
+            "price": 135,
+            "sku": "PWRNBK9-002K"
+          },
+          "12-13yrs": {
+            "id": "650580000000184663",
+            "name": "Kids Half Sleeve Round Neck T-Shirt  Black -  12-13YRS",
+            "stock": 199,
+            "price": 155,
+            "sku": "PWRNBK11-002K"
+          },
+          "14-15yrs": {
+            "id": "650580000000184688",
+            "name": "Kids Half Sleeve Round Neck T-Shirt  Black -  14-15YRS",
+            "stock": 199,
+            "price": 160,
+            "sku": "PWRNBK13-002K"
+          },
+          "16-17yrs": {
+            "id": "650580000000186789",
+            "name": "Kids Half Sleeve Round Neck T-Shirt  Black -  16-17YRS",
+            "stock": 198,
+            "price": 160,
+            "sku": "PWRNBK15-002K"
+          },
+          "2-3yrs": {
+            "id": "650580000000185592",
+            "name": "Kids Half Sleeve Round Neck T-Shirt  Black -  2-3YRS",
+            "stock": 195,
+            "price": 135,
+            "sku": "PWRNBK1-002K"
+          },
+          "4-5yrs": {
+            "id": "650580000000186814",
+            "name": "Kids Half Sleeve Round Neck T-Shirt  Black -  4-5YRS",
+            "stock": 196,
+            "price": 135,
+            "sku": "PWRNBK3-002K"
+          },
+          "6-7yrs": {
+            "id": "650580000000185637",
+            "name": "Kids Half Sleeve Round Neck T-Shirt  Black -  6-7YRS",
+            "stock": 198,
+            "price": 135,
+            "sku": "PWRNBK5-002K"
+          },
+          "8-9yrs": {
+            "id": "650580000000189436",
+            "name": "Kids Half Sleeve Round Neck T-Shirt  Black -  8-9YRS",
+            "stock": 198,
+            "price": 135,
+            "sku": "PWRNBK7-002K"
+          }
+        }
+      },
+      "Pink": {
+        "sizes": {
+          "0-1yrs": {
+            "id": "650580000000188443",
+            "name": "Kids Half Sleeve Round Neck T-Shirt  Pink -  0-1YRS",
+            "stock": 200,
+            "price": 135,
+            "sku": "PWRNPK0-013K"
+          },
+          "10-11yrs": {
+            "id": "650580000000184480",
+            "name": "Kids Half Sleeve Round Neck T-Shirt  Pink -  10-11YRS",
+            "stock": 200,
+            "price": 135,
+            "sku": "PWRNPK9-013K"
+          },
+          "12-13yrs": {
+            "id": "650580000000189249",
+            "name": "Kids Half Sleeve Round Neck T-Shirt  Pink -  12-13YRS",
+            "stock": 199,
+            "price": 155,
+            "sku": "PWRNPK11-013K"
+          },
+          "14-15yrs": {
+            "id": "650580000000186460",
+            "name": "Kids Half Sleeve Round Neck T-Shirt  Pink -  14-15YRS",
+            "stock": 200,
+            "price": 160,
+            "sku": "PWRNPK13-013K"
+          },
+          "16-17yrs": {
+            "id": "650580000000184455",
+            "name": "Kids Half Sleeve Round Neck T-Shirt  Pink -  16-17YRS",
+            "stock": 200,
+            "price": 160,
+            "sku": "PWRNPK15-013K"
+          },
+          "2-3yrs": {
+            "id": "650580000000187616",
+            "name": "Kids Half Sleeve Round Neck T-Shirt  Pink -  2-3YRS",
+            "stock": 200,
+            "price": 135,
+            "sku": "PWRNPK1-013K"
+          },
+          "4-5yrs": {
+            "id": "650580000000187641",
+            "name": "Kids Half Sleeve Round Neck T-Shirt  Pink -  4-5YRS",
+            "stock": 200,
+            "price": 135,
+            "sku": "PWRNPK3-013K"
+          },
+          "6-7yrs": {
+            "id": "650580000000188468",
+            "name": "Kids Half Sleeve Round Neck T-Shirt  Pink -  6-7YRS",
+            "stock": 200,
+            "price": 135,
+            "sku": "PWRNPK5-013K"
+          },
+          "8-9yrs": {
+            "id": "650580000000185342",
+            "name": "Kids Half Sleeve Round Neck T-Shirt  Pink -  8-9YRS",
+            "stock": 200,
+            "price": 135,
+            "sku": "PWRNPK7-013K"
+          }
+        }
+      },
+      "Red": {
+        "sizes": {
+          "0-1yrs": {
+            "id": "650580000000185367",
+            "name": "Kids Half Sleeve Round Neck T-Shirt  Red -  0-1YRS",
+            "stock": 0,
+            "price": 135,
+            "sku": "PWRNRD0-005K"
+          },
+          "10-11yrs": {
+            "id": "650580000000188543",
+            "name": "Kids Half Sleeve Round Neck T-Shirt  Red -  10-11YRS",
+            "stock": 199,
+            "price": 135,
+            "sku": "PWRNRD9-005K"
+          },
+          "12-13yrs": {
+            "id": "650580000000184505",
+            "name": "Kids Half Sleeve Round Neck T-Shirt  Red -  12-13YRS",
+            "stock": 2,
+            "price": 155,
+            "sku": "PWRNRD11-005K"
+          },
+          "14-15yrs": {
+            "id": "650580000000186485",
+            "name": "Kids Half Sleeve Round Neck T-Shirt  Red -  14-15YRS",
+            "stock": 2,
+            "price": 160,
+            "sku": "PWRNRD13-005K"
+          },
+          "16-17yrs": {
+            "id": "650580000000188493",
+            "name": "Kids Half Sleeve Round Neck T-Shirt  Red -  16-17YRS",
+            "stock": 0,
+            "price": 160,
+            "sku": "PWRNRD15-005K"
+          },
+          "2-3yrs": {
+            "id": "650580000000189274",
+            "name": "Kids Half Sleeve Round Neck T-Shirt  Red -  2-3YRS",
+            "stock": 198,
+            "price": 135,
+            "sku": "PWRNRD1-005K"
+          },
+          "4-5yrs": {
+            "id": "650580000000188518",
+            "name": "Kids Half Sleeve Round Neck T-Shirt  Red -  4-5YRS",
+            "stock": 189,
+            "price": 135,
+            "sku": "PWRNRD3-005K"
+          },
+          "6-7yrs": {
+            "id": "650580000000186510",
+            "name": "Kids Half Sleeve Round Neck T-Shirt  Red -  6-7YRS",
+            "stock": 188,
+            "price": 135,
+            "sku": "PWRNRD5-005K"
+          },
+          "8-9yrs": {
+            "id": "650580000000186535",
+            "name": "Kids Half Sleeve Round Neck T-Shirt  Red -  8-9YRS",
+            "stock": 193,
+            "price": 135,
+            "sku": "PWRNRD7-005K"
+          }
+        }
+      },
+      "Chocolate Brown": {
+        "sizes": {
+          "0-1yrs": {
+            "id": "650580000000188838",
+            "name": "Kids Half Sleeve Round Neck T-Shirt  Chocolate Brown -  0-1YRS",
+            "stock": 200,
+            "price": 135,
+            "sku": "PWRNCB0-011K"
+          },
+          "10-11yrs": {
+            "id": "650580000000185317",
+            "name": "Kids Half Sleeve Round Neck T-Shirt  Chocolate Brown -  10-11YRS",
+            "stock": 198,
+            "price": 135,
+            "sku": "PWRNCB9-011K"
+          },
+          "12-13yrs": {
+            "id": "650580000000188863",
+            "name": "Kids Half Sleeve Round Neck T-Shirt  Chocolate Brown -  12-13YRS",
+            "stock": 198,
+            "price": 155,
+            "sku": "PWRNCB11-011K"
+          },
+          "14-15yrs": {
+            "id": "650580000000188888",
+            "name": "Kids Half Sleeve Round Neck T-Shirt  Chocolate Brown -  14-15YRS",
+            "stock": 199,
+            "price": 160,
+            "sku": "PWRNCB13-011K"
+          },
+          "16-17yrs": {
+            "id": "650580000000189608",
+            "name": "Kids Half Sleeve Round Neck T-Shirt  Chocolate Brown -  16-17YRS",
+            "stock": 200,
+            "price": 160,
+            "sku": "PWRNCB15-011K"
+          },
+          "2-3yrs": {
+            "id": "650580000000189583",
+            "name": "Kids Half Sleeve Round Neck T-Shirt  Chocolate Brown -  2-3YRS",
+            "stock": 200,
+            "price": 135,
+            "sku": "PWRNCB1-011K"
+          },
+          "4-5yrs": {
+            "id": "650580000000186435",
+            "name": "Kids Half Sleeve Round Neck T-Shirt  Chocolate Brown -  4-5YRS",
+            "stock": 199,
+            "price": 135,
+            "sku": "PWRNCB3-011K"
+          },
+          "6-7yrs": {
+            "id": "650580000000187566",
+            "name": "Kids Half Sleeve Round Neck T-Shirt  Chocolate Brown -  6-7YRS",
+            "stock": 199,
+            "price": 135,
+            "sku": "PWRNCB5-011K"
+          },
+          "8-9yrs": {
+            "id": "650580000000187591",
+            "name": "Kids Half Sleeve Round Neck T-Shirt  Chocolate Brown -  8-9YRS",
+            "stock": 200,
+            "price": 135,
+            "sku": "PWRNCB7-011K"
+          }
+        }
+      },
+      "White": {
+        "sizes": {
+          "0-1yrs": {
+            "id": "650580000000189299",
+            "name": "Kids Half Sleeve Round Neck T-Shirt  White -  0-1YRS",
+            "stock": 200,
+            "price": 135,
+            "sku": "PWRNWH0-001K"
+          },
+          "10-11yrs": {
+            "id": "650580000000186585",
+            "name": "Kids Half Sleeve Round Neck T-Shirt  White -  10-11YRS",
+            "stock": 200,
+            "price": 135,
+            "sku": "PWRNWH9-001K"
+          },
+          "12-13yrs": {
+            "id": "650580000000189324",
+            "name": "Kids Half Sleeve Round Neck T-Shirt  White -  12-13YRS",
+            "stock": 200,
+            "price": 155,
+            "sku": "PWRNWH11-001K"
+          },
+          "14-15yrs": {
+            "id": "650580000000185417",
+            "name": "Kids Half Sleeve Round Neck T-Shirt  White -  14-15YRS",
+            "stock": 200,
+            "price": 160,
+            "sku": "PWRNWH13-001K"
+          },
+          "16-17yrs": {
+            "id": "650580000000184530",
+            "name": "Kids Half Sleeve Round Neck T-Shirt  White -  16-17YRS",
+            "stock": 200,
+            "price": 160,
+            "sku": "PWRNWH15-001K"
+          },
+          "2-3yrs": {
+            "id": "650580000000185392",
+            "name": "Kids Half Sleeve Round Neck T-Shirt  White -  2-3YRS",
+            "stock": 196,
+            "price": 135,
+            "sku": "PWRNWH1-001K"
+          },
+          "4-5yrs": {
+            "id": "650580000000186560",
+            "name": "Kids Half Sleeve Round Neck T-Shirt  White -  4-5YRS",
+            "stock": 196,
+            "price": 135,
+            "sku": "PWRNWH3-001K"
+          },
+          "6-7yrs": {
+            "id": "650580000000184555",
+            "name": "Kids Half Sleeve Round Neck T-Shirt  White -  6-7YRS",
+            "stock": 192,
+            "price": 135,
+            "sku": "PWRNWH5-001K"
+          },
+          "8-9yrs": {
+            "id": "650580000000189349",
+            "name": "Kids Half Sleeve Round Neck T-Shirt  White -  8-9YRS",
+            "stock": 200,
+            "price": 135,
+            "sku": "PWRNWH7-001K"
+          }
+        }
+      },
+      "Yellow": {
+        "sizes": {
+          "0-1yrs": {
+            "id": "650580000000188568",
+            "name": "Kids Half Sleeve Round Neck T-Shirt  Yellow -  0-1YRS",
+            "stock": 0,
+            "price": 135,
+            "sku": "PWRNYL0-003K"
+          },
+          "10-11yrs": {
+            "id": "650580000000186610",
+            "name": "Kids Half Sleeve Round Neck T-Shirt  Yellow -  10-11YRS",
+            "stock": 199,
+            "price": 135,
+            "sku": "PWRNYL9-003K"
+          },
+          "12-13yrs": {
+            "id": "650580000000187666",
+            "name": "Kids Half Sleeve Round Neck T-Shirt  Yellow -  12-13YRS",
+            "stock": 0,
+            "price": 155,
+            "sku": "PWRNYL11-003K"
+          },
+          "14-15yrs": {
+            "id": "650580000000188593",
+            "name": "Kids Half Sleeve Round Neck T-Shirt  Yellow -  14-15YRS",
+            "stock": 200,
+            "price": 160,
+            "sku": "PWRNYL13-003K"
+          },
+          "16-17yrs": {
+            "id": "650580000000188618",
+            "name": "Kids Half Sleeve Round Neck T-Shirt  Yellow -  16-17YRS",
+            "stock": 0,
+            "price": 160,
+            "sku": "PWRNYL15-003K"
+          },
+          "2-3yrs": {
+            "id": "650580000000185442",
+            "name": "Kids Half Sleeve Round Neck T-Shirt  Yellow -  2-3YRS",
+            "stock": 195,
+            "price": 135,
+            "sku": "PWRNYL1-003K"
+          },
+          "4-5yrs": {
+            "id": "650580000000184580",
+            "name": "Kids Half Sleeve Round Neck T-Shirt  Yellow -  4-5YRS",
+            "stock": 194,
+            "price": 135,
+            "sku": "PWRNYL3-003K"
+          },
+          "6-7yrs": {
+            "id": "650580000000185467",
+            "name": "Kids Half Sleeve Round Neck T-Shirt  Yellow -  6-7YRS",
+            "stock": 190,
+            "price": 135,
+            "sku": "PWRNYL5-003K"
+          },
+          "8-9yrs": {
+            "id": "650580000000188643",
+            "name": "Kids Half Sleeve Round Neck T-Shirt  Yellow -  8-9YRS",
+            "stock": 199,
+            "price": 135,
+            "sku": "PWRNYL7-003K"
+          }
+        }
+      }
+    }
+  },
+  "Men Oversized": {
+    "brand": "",
+    "manufacturer": "",
+    "colors": {
+      "Black": {
+        "sizes": {
+          "3XL": {
+            "id": "650580000002092001",
+            "name": "Men Oversized T-Shirt  Black -  3XL",
+            "stock": 100,
+            "price": 235,
+            "sku": "PWOSBK3XL-0013XL"
+          },
+          "4XL": {
+            "id": "650580000002093001",
+            "name": "Men Oversized T-Shirt  Black -  4XL",
+            "stock": 100,
+            "price": 235,
+            "sku": "PWOSBK4XL-0014XL"
+          },
+          "5XL": {
+            "id": "650580000002093030",
+            "name": "Men Oversized T-Shirt  Black -  5XL",
+            "stock": 100,
+            "price": 235,
+            "sku": "PWOSBK5XL-0015XL"
+          },
+          "XL": {
+            "id": "650580000002004055",
+            "name": "Men Oversized T-Shirt  Black -  XL",
+            "stock": 10,
+            "price": 215,
+            "sku": "PWOSBKXL-001M"
+          }
+        }
+      },
+      "Navy Blue": {
+        "sizes": {
+          "2XL": {
+            "id": "650580000002088003",
+            "name": "Men Oversized T-Shirt  Navy Blue -  2XL",
+            "stock": 100,
+            "price": 215,
+            "sku": "PWOSNB2XL-0012XL"
+          },
+          "3XL": {
+            "id": "650580000002096001",
+            "name": "Men Oversized T-Shirt  Navy Blue -  3XL",
+            "stock": 100,
+            "price": 235,
+            "sku": "PWOSNB3XL-0013XL"
+          },
+          "4XL": {
+            "id": "650580000002094030",
+            "name": "Men Oversized T-Shirt  Navy Blue -  4XL",
+            "stock": 100,
+            "price": 235,
+            "sku": "PWOSNB4XL-0014XL"
+          },
+          "5XL": {
+            "id": "650580000002093088",
+            "name": "Men Oversized T-Shirt  Navy Blue -  5XL",
+            "stock": 100,
+            "price": 235,
+            "sku": "PWOSNB5XL-0015XL"
+          },
+          "L": {
+            "id": "650580000002092059",
+            "name": "Men Oversized T-Shirt  Navy Blue -  L",
+            "stock": 100,
+            "price": 215,
+            "sku": "PWOSNBL-001L"
+          },
+          "M": {
+            "id": "650580000002087046",
+            "name": "Men Oversized T-Shirt  Navy Blue -  M",
+            "stock": 100,
+            "price": 215,
+            "sku": "PWOSNBM-001M"
+          },
+          "S": {
+            "id": "650580000002095001",
+            "name": "Men Oversized T-Shirt  Navy Blue -  S",
+            "stock": 100,
+            "price": 215,
+            "sku": "PWOSNBS-001S"
+          },
+          "XL": {
+            "id": "650580000002091009",
+            "name": "Men Oversized T-Shirt  Navy Blue -  XL",
+            "stock": 100,
+            "price": 215,
+            "sku": "PWOSNBXL-001XL"
+          }
+        }
+      },
+      "Red": {
+        "sizes": {
+          "2XL": {
+            "id": "650580000002099001",
+            "name": "Men Oversized T-Shirt  Red -  2XL",
+            "stock": 100,
+            "price": 215,
+            "sku": "PWOSRD2XL-0012XL"
+          },
+          "3XL": {
+            "id": "650580000002088061",
+            "name": "Men Oversized T-Shirt  Red -  3XL",
+            "stock": 100,
+            "price": 235,
+            "sku": "PWOSRD3XL-0013XL"
+          },
+          "4XL": {
+            "id": "650580000002095059",
+            "name": "Men Oversized T-Shirt  Red -  4XL",
+            "stock": 100,
+            "price": 235,
+            "sku": "PWOSRD4XL-0014XL"
+          },
+          "5XL": {
+            "id": "650580000002093117",
+            "name": "Men Oversized T-Shirt  Red -  5XL",
+            "stock": 100,
+            "price": 235,
+            "sku": "PWOSRD5XL-0015XL"
+          },
+          "L": {
+            "id": "650580000002088032",
+            "name": "Men Oversized T-Shirt  Red -  L",
+            "stock": 100,
+            "price": 215,
+            "sku": "PWOSRDL-001L"
+          },
+          "M": {
+            "id": "650580000002092088",
+            "name": "Men Oversized T-Shirt  Red -  M",
+            "stock": 100,
+            "price": 215,
+            "sku": "PWOSRDM-001M"
+          },
+          "S": {
+            "id": "650580000002098001",
+            "name": "Men Oversized T-Shirt  Red -  S",
+            "stock": 100,
+            "price": 215,
+            "sku": "PWOSRDS-001S"
+          },
+          "XL": {
+            "id": "650580000002095030",
+            "name": "Men Oversized T-Shirt  Red -  XL",
+            "stock": 100,
+            "price": 215,
+            "sku": "PWOSRDXL-001XL"
+          }
+        }
+      },
+      "White": {
+        "sizes": {
+          "3XL": {
+            "id": "650580000002092030",
+            "name": "Men Oversized T-Shirt  White -  3XL",
+            "stock": 100,
+            "price": 235,
+            "sku": "PWOSWH3XL-0013XL"
+          },
+          "4XL": {
+            "id": "650580000002094001",
+            "name": "Men Oversized T-Shirt  White -  4XL",
+            "stock": 100,
+            "price": 235,
+            "sku": "PWOSWH4XL-0014XL"
+          },
+          "5XL": {
+            "id": "650580000002093059",
+            "name": "Men Oversized T-Shirt  White -  5XL",
+            "stock": 100,
+            "price": 235,
+            "sku": "PWOSWH5XL-0015XL"
+          },
+          "XL": {
+            "id": "650580000002009024",
+            "name": "Men Oversized T-Shirt  White -  XL",
+            "stock": 10,
+            "price": 215,
+            "sku": "PWOSWHXL-001M"
+          }
+        }
+      }
+    }
+  },
+  "Mens Full Sleeve": {
+    "brand": "",
+    "manufacturer": "",
+    "colors": {
+      "Black": {
+        "sizes": {
+          "L": {
+            "id": "650580000000197264",
+            "name": "Mens Full Sleeve T-Shirt  Black -  L",
+            "stock": 30,
+            "price": 225,
+            "sku": "PWRNFSFSBKL-002MFS"
+          },
+          "S": {
+            "id": "650580000000195481",
+            "name": "Mens Full Sleeve T-Shirt  Black -  S",
+            "stock": 38,
+            "price": 225,
+            "sku": "PWRNFSFSBKS-002MFS"
+          },
+          "XL": {
+            "id": "650580000000196281",
+            "name": "Mens Full Sleeve T-Shirt  Black -  XL",
+            "stock": 44,
+            "price": 225,
+            "sku": "PWRNFSFSBKXL-002MFS"
+          },
+          "XS": {
+            "id": "650580000000195490",
+            "name": "Mens Full Sleeve T-Shirt  Black -  XS",
+            "stock": 0,
+            "price": 225,
+            "sku": "PWRNFSFSBKXS-002MFS"
+          },
+          "2XL": {
+            "id": "650580000000147168",
+            "name": "Mens Full Sleeve T-Shirt Black, 2XL",
+            "price": 0,
+            "sku": "PWRNFSFSBK2XL-002MFS"
+          },
+          "M": {
+            "id": "650580000000168066",
+            "name": "Mens Full Sleeve T-Shirt Black, M",
+            "price": 0,
+            "sku": "PWRNFSFSBKM-002MFS"
+          }
+        }
+      },
+      "Red": {
+        "sizes": {
+          "2XL": {
+            "id": "650580000000192818",
+            "name": "Mens Full Sleeve T-Shirt  Red -  2XL",
+            "stock": 50,
+            "price": 245,
+            "sku": "PWRNFSFSRD2XL-005MFS"
+          },
+          "L": {
+            "id": "650580000000193373",
+            "name": "Mens Full Sleeve T-Shirt  Red -  L",
+            "stock": 0,
+            "price": 225,
+            "sku": "PWRNFSFSRDL-005MFS"
+          },
+          "M": {
+            "id": "650580000000197273",
+            "name": "Mens Full Sleeve T-Shirt  Red -  M",
+            "stock": 0,
+            "price": 225,
+            "sku": "PWRNFSFSRDM-005MFS"
+          },
+          "S": {
+            "id": "650580000000148243",
+            "name": "Mens Full Sleeve T-Shirt  Red -  S",
+            "stock": 48,
+            "price": 225,
+            "sku": "PWRNFSFSRDS-005MFS"
+          },
+          "XL": {
+            "id": "650580000000192831",
+            "name": "Mens Full Sleeve T-Shirt  Red -  XL",
+            "stock": 0,
+            "price": 225,
+            "sku": "PWRNFSFSRDXL-005MFS"
+          },
+          "XS": {
+            "id": "650580000000194409",
+            "name": "Mens Full Sleeve T-Shirt  Red -  XS",
+            "stock": 0,
+            "price": 225,
+            "sku": "PWRNFSFSRDXS-005MFS"
+          }
+        }
+      },
+      "White": {
+        "sizes": {
+          "2XL": {
+            "id": "650580000000192858",
+            "name": "Mens Full Sleeve T-Shirt  White -  2XL",
+            "stock": 46,
+            "price": 225,
+            "sku": "PWRNFSWH2XL-001MFS"
+          },
+          "L": {
+            "id": "650580000000192840",
+            "name": "Mens Full Sleeve T-Shirt  White -  L",
+            "stock": 15,
+            "price": 225,
+            "sku": "PWRNFSWHL-001MFS"
+          },
+          "S": {
+            "id": "650580000000194418",
+            "name": "Mens Full Sleeve T-Shirt  White -  S",
+            "stock": 13,
+            "price": 225,
+            "sku": "PWRNFSWHS-001MFS"
+          },
+          "XL": {
+            "id": "650580000000195499",
+            "name": "Mens Full Sleeve T-Shirt  White -  XL",
+            "stock": 18,
+            "price": 225,
+            "sku": "PWRNFSWHXL-001MFS"
+          },
+          "XS": {
+            "id": "650580000000192849",
+            "name": "Mens Full Sleeve T-Shirt  White -  XS",
+            "stock": 20,
+            "price": 225,
+            "sku": "PWRNFSWHXS-001MFS"
+          },
+          "M": {
+            "id": "650580000000168075",
+            "name": "Mens Full Sleeve T-Shirt White, M",
+            "price": 0,
+            "sku": "PWRNFSWHM-001MFS"
+          }
+        }
+      }
+    }
+  },
+  "Mens Half Sleeve": {
+    "brand": "PRINTWEAR",
+    "manufacturer": "I CLOTHING",
+    "colors": {
+      "Army Green": {
+        "sizes": {
+          "2XL": {
+            "id": "650580000000029891",
+            "name": "Mens Half Sleeve Round Neck T-Shirt  Army Green -  2XL",
+            "stock": 198,
+            "price": 200,
+            "sku": "PWRNAG2XL-013M"
+          },
+          "L": {
+            "id": "650580000000029887",
+            "name": "Mens Half Sleeve Round Neck T-Shirt  Army Green -  L",
+            "stock": 196,
+            "price": 175,
+            "sku": "PWRNAGL-013M"
+          },
+          "M": {
+            "id": "650580000000187411",
+            "name": "Mens Half Sleeve Round Neck T-Shirt  Army Green -  M",
+            "stock": 195,
+            "price": 175,
+            "sku": "PWRNAG2M-013M"
+          },
+          "S": {
+            "id": "650580000000029883",
+            "name": "Mens Half Sleeve Round Neck T-Shirt  Army Green -  S",
+            "stock": 198,
+            "price": 175,
+            "sku": "PWRNAGS-013M"
+          },
+          "XL": {
+            "id": "650580000000029889",
+            "name": "Mens Half Sleeve Round Neck T-Shirt  Army Green -  XL",
+            "stock": 199,
+            "price": 175,
+            "sku": "PWRNAGXL-013M"
+          },
+          "XS": {
+            "id": "650580000000029881",
+            "name": "Mens Half Sleeve Round Neck T-Shirt  Army Green -  XS",
+            "stock": 199,
+            "price": 175,
+            "sku": "PWRNAGXS-013M"
+          }
+        }
+      },
+      "Beige": {
+        "sizes": {
+          "2XL": {
+            "id": "650580000000030181",
+            "name": "Mens Half Sleeve Round Neck T-Shirt  Beige -  2XL",
+            "stock": 198,
+            "price": 200,
+            "sku": "PWRNBE2XL-017M"
+          },
+          "L": {
+            "id": "650580000000030177",
+            "name": "Mens Half Sleeve Round Neck T-Shirt  Beige -  L",
+            "stock": 190,
+            "price": 175,
+            "sku": "PWRNBEL-017M"
+          },
+          "M": {
+            "id": "650580000000030175",
+            "name": "Mens Half Sleeve Round Neck T-Shirt  Beige -  M",
+            "stock": 193,
+            "price": 175,
+            "sku": "PWRNBEM-017M"
+          },
+          "S": {
+            "id": "650580000000030173",
+            "name": "Mens Half Sleeve Round Neck T-Shirt  Beige -  S",
+            "stock": 200,
+            "price": 175,
+            "sku": "PWRNBES-017M"
+          },
+          "XL": {
+            "id": "650580000000030179",
+            "name": "Mens Half Sleeve Round Neck T-Shirt  Beige -  XL",
+            "stock": 195,
+            "price": 175,
+            "sku": "PWRNBEXL-017M"
+          },
+          "XS": {
+            "id": "650580000000030171",
+            "name": "Mens Half Sleeve Round Neck T-Shirt  Beige -  XS",
+            "stock": 199,
+            "price": 175,
+            "sku": "PWRNBEXS-017M"
+          }
+        }
+      },
+      "Black": {
+        "sizes": {
+          "2XL": {
+            "id": "650580000000019209",
+            "name": "Mens Half Sleeve Round Neck T-Shirt  Black -  2XL",
+            "stock": 101,
+            "price": 200,
+            "sku": "PWRNBK2XL-002M"
+          },
+          "3XL": {
+            "id": "650580000000019211",
+            "name": "Mens Half Sleeve Round Neck T-Shirt  Black -  3XL",
+            "stock": 223,
+            "price": 220,
+            "sku": "PWRNBK3XL-002M"
+          },
+          "4XL": {
+            "id": "650580000000019213",
+            "name": "Mens Half Sleeve Round Neck T-Shirt  Black -  4XL",
+            "stock": 287,
+            "price": 240,
+            "sku": "PWRNBK4XL-002M"
+          },
+          "5XL": {
+            "id": "650580000000019215",
+            "name": "Mens Half Sleeve Round Neck T-Shirt  Black -  5XL",
+            "stock": 234,
+            "price": 260,
+            "sku": "PWRNBK5XL-002M"
+          },
+          "L": {
+            "id": "650580000000019205",
+            "name": "Mens Half Sleeve Round Neck T-Shirt  Black -  L",
+            "stock": 585,
+            "price": 175,
+            "sku": "PWRNBKL-002M"
+          },
+          "M": {
+            "id": "650580000000019203",
+            "name": "Mens Half Sleeve Round Neck T-Shirt  Black -  M",
+            "stock": 63,
+            "price": 175,
+            "sku": "PWRNBKM-002M"
+          },
+          "S": {
+            "id": "650580000000019201",
+            "name": "Mens Half Sleeve Round Neck T-Shirt  Black -  S",
+            "stock": 286,
+            "price": 175,
+            "sku": "PWRNBKS-002M"
+          },
+          "XL": {
+            "id": "650580000000019207",
+            "name": "Mens Half Sleeve Round Neck T-Shirt  Black -  XL",
+            "stock": 310,
+            "price": 175,
+            "sku": "PWRNBKXL-002M"
+          },
+          "XS": {
+            "id": "650580000000019199",
+            "name": "Mens Half Sleeve Round Neck T-Shirt  Black -  XS",
+            "stock": 374,
+            "price": 175,
+            "sku": "PWRNBKXS-002M"
+          }
+        }
+      },
+      "Sky Blue": {
+        "sizes": {
+          "2XL": {
+            "id": "650580000002906001",
+            "name": "Mens Half Sleeve Round Neck T-Shirt  Sky Blue -  2XL",
+            "stock": 0,
+            "price": 195,
+            "sku": "PWRNSB2XL-001 XL"
+          },
+          "L": {
+            "id": "650580000002900129",
+            "name": "Mens Half Sleeve Round Neck T-Shirt  Sky Blue -  L",
+            "stock": 0,
+            "price": 175,
+            "sku": "PWRNSBL-001 L"
+          },
+          "M": {
+            "id": "650580000002905001",
+            "name": "Mens Half Sleeve Round Neck T-Shirt  Sky Blue -  M",
+            "stock": 0,
+            "price": 175,
+            "sku": "PWRNSBM-001 M"
+          },
+          "S": {
+            "id": "650580000002902010",
+            "name": "Mens Half Sleeve Round Neck T-Shirt  Sky Blue -  S",
+            "stock": 0,
+            "price": 175,
+            "sku": "PWRNSBS-001 S"
+          },
+          "XL": {
+            "id": "650580000002952001",
+            "name": "Mens Half Sleeve Round Neck T-Shirt Iris Lavender, XL",
+            "price": 0,
+            "sku": "PWRNILXL-001 XL"
+          },
+          "XS": {
+            "id": "650580000000030267",
+            "name": "Mens Half Sleeve Round Neck T-Shirt  Bottle Green -  XS",
+            "stock": 197,
+            "price": 175,
+            "sku": "PWRNBGXS-018M"
+          }
+        }
+      },
+      "Charcoal Melange": {
+        "sizes": {
+          "2XL": {
+            "id": "650580000000029565",
+            "name": "Mens Half Sleeve Round Neck T-Shirt  Charcoal Melange -  2XL",
+            "stock": 235,
+            "price": 200,
+            "sku": "PWRNCM2XL-010M"
+          },
+          "L": {
+            "id": "650580000000029561",
+            "name": "Mens Half Sleeve Round Neck T-Shirt  Charcoal Melange -  L",
+            "stock": 205,
+            "price": 175,
+            "sku": "PWRNCML-010M"
+          },
+          "M": {
+            "id": "650580000000029559",
+            "name": "Mens Half Sleeve Round Neck T-Shirt  Charcoal Melange -  M",
+            "stock": 209,
+            "price": 175,
+            "sku": "PWRNCMM-010M"
+          },
+          "S": {
+            "id": "650580000000029557",
+            "name": "Mens Half Sleeve Round Neck T-Shirt  Charcoal Melange -  S",
+            "stock": 235,
+            "price": 175,
+            "sku": "PWRNCMS-010M"
+          },
+          "XL": {
+            "id": "650580000000029563",
+            "name": "Mens Half Sleeve Round Neck T-Shirt  Charcoal Melange -  XL",
+            "stock": 219,
+            "price": 175,
+            "sku": "PWRNCMXL-010M"
+          },
+          "XS": {
+            "id": "650580000000029555",
+            "name": "Mens Half Sleeve Round Neck T-Shirt  Charcoal Melange -  XS",
+            "stock": 249,
+            "price": 175,
+            "sku": "PWRNCMXS-010M"
+          }
+        }
+      },
+      "Red": {
+        "sizes": {
+          "2XL": {
+            "id": "650580000000029181",
+            "name": "Mens Half Sleeve Round Neck T-Shirt  Red -  2XL",
+            "stock": 287,
+            "price": 200,
+            "sku": "PWRNRD2XL-005M"
+          },
+          "L": {
+            "id": "650580000000029177",
+            "name": "Mens Half Sleeve Round Neck T-Shirt  Red -  L",
+            "stock": 254,
+            "price": 175,
+            "sku": "PWRNRDL-005M"
+          },
+          "M": {
+            "id": "650580000000029175",
+            "name": "Mens Half Sleeve Round Neck T-Shirt  Red -  M",
+            "stock": 268,
+            "price": 175,
+            "sku": "PWRNRDM-005M"
+          },
+          "S": {
+            "id": "650580000000029173",
+            "name": "Mens Half Sleeve Round Neck T-Shirt  Red -  S",
+            "stock": 289,
+            "price": 175,
+            "sku": "PWRNRDS-005M"
+          },
+          "XL": {
+            "id": "650580000000029179",
+            "name": "Mens Half Sleeve Round Neck T-Shirt  Red -  XL",
+            "stock": 276,
+            "price": 175,
+            "sku": "PWRNRDXL-005M"
+          },
+          "XS": {
+            "id": "650580000000029171",
+            "name": "Mens Half Sleeve Round Neck T-Shirt  Red -  XS",
+            "stock": 298,
+            "price": 175,
+            "sku": "PWRNRDXS-005M"
+          },
+          "3XL": {
+            "id": "650580000000029183",
+            "name": "Mens Half Sleeve Round Neck T-Shirt  Red -  3XL",
+            "stock": 250,
+            "price": 220,
+            "sku": "PWRNRD3XL-005M"
+          },
+          "4XL": {
+            "id": "650580000000029185",
+            "name": "Mens Half Sleeve Round Neck T-Shirt  Red -  4XL",
+            "stock": 250,
+            "price": 240,
+            "sku": "PWRNRD4XL-005M"
+          },
+          "5XL": {
+            "id": "650580000000029187",
+            "name": "Mens Half Sleeve Round Neck T-Shirt  Red -  5XL",
+            "stock": 245,
+            "price": 260,
+            "sku": "PWRNRD5XL-005M"
+          }
+        }
+      },
+      "Chocolate Brown": {
+        "sizes": {
+          "2XL": {
+            "id": "650580000000030085",
+            "name": "Mens Half Sleeve Round Neck T-Shirt  Chocolate Brown -  2XL",
+            "stock": 187,
+            "price": 200,
+            "sku": "PWRNCB2XL-016M"
+          },
+          "L": {
+            "id": "650580000000030081",
+            "name": "Mens Half Sleeve Round Neck T-Shirt  Chocolate Brown -  L",
+            "stock": 169,
+            "price": 175,
+            "sku": "PWRNCBL-016M"
+          },
+          "M": {
+            "id": "650580000000030079",
+            "name": "Mens Half Sleeve Round Neck T-Shirt  Chocolate Brown -  M",
+            "stock": 176,
+            "price": 175,
+            "sku": "PWRNCBM-016M"
+          },
+          "S": {
+            "id": "650580000000030077",
+            "name": "Mens Half Sleeve Round Neck T-Shirt  Chocolate Brown -  S",
+            "stock": 189,
+            "price": 175,
+            "sku": "PWRNCBS-016M"
+          },
+          "XL": {
+            "id": "650580000000030083",
+            "name": "Mens Half Sleeve Round Neck T-Shirt  Chocolate Brown -  XL",
+            "stock": 181,
+            "price": 175,
+            "sku": "PWRNCBXL-016M"
+          },
+          "XS": {
+            "id": "650580000000030075",
+            "name": "Mens Half Sleeve Round Neck T-Shirt  Chocolate Brown -  XS",
+            "stock": 200,
+            "price": 175,
+            "sku": "PWRNCBXS-016M"
+          }
+        }
+      },
+      "Ecru Melange": {
+        "sizes": {
+          "2XL": {
+            "id": "650580000000029795",
+            "name": "Mens Half Sleeve Round Neck T-Shirt  Ecru Melange -  2XL",
+            "stock": 200,
+            "price": 200,
+            "sku": "PWRNEM2XL-012M"
+          },
+          "L": {
+            "id": "650580000000029791",
+            "name": "Mens Half Sleeve Round Neck T-Shirt  Ecru Melange -  L",
+            "stock": 196,
+            "price": 175,
+            "sku": "PWRNEML-012M"
+          },
+          "M": {
+            "id": "650580000000029789",
+            "name": "Mens Half Sleeve Round Neck T-Shirt  Ecru Melange -  M",
+            "stock": 197,
+            "price": 175,
+            "sku": "PWRNEMM-012M"
+          },
+          "S": {
+            "id": "650580000000029787",
+            "name": "Mens Half Sleeve Round Neck T-Shirt  Ecru Melange -  S",
+            "stock": 200,
+            "price": 175,
+            "sku": "PWRNEMS-012M"
+          },
+          "XL": {
+            "id": "650580000000029793",
+            "name": "Mens Half Sleeve Round Neck T-Shirt  Ecru Melange -  XL",
+            "stock": 197,
+            "price": 175,
+            "sku": "PWRNEMXL-012M"
+          },
+          "XS": {
+            "id": "650580000000029785",
+            "name": "Mens Half Sleeve Round Neck T-Shirt  Ecru Melange -  XS",
+            "stock": 198,
+            "price": 175,
+            "sku": "PWRNEMXS-012M"
+          }
+        }
+      },
+      "Grey Melange": {
+        "sizes": {
+          "2XL": {
+            "id": "650580000000029661",
+            "name": "Mens Half Sleeve Round Neck T-Shirt  Grey Melange -  2XL",
+            "stock": 183,
+            "price": 200,
+            "sku": "PWRNGM2XL-011M"
+          },
+          "L": {
+            "id": "650580000000029657",
+            "name": "Mens Half Sleeve Round Neck T-Shirt  Grey Melange -  L",
+            "stock": 165,
+            "price": 175,
+            "sku": "PWRNGML-011M"
+          },
+          "M": {
+            "id": "650580000000029655",
+            "name": "Mens Half Sleeve Round Neck T-Shirt  Grey Melange -  M",
+            "stock": 180,
+            "price": 175,
+            "sku": "PWRNGMM-011M"
+          },
+          "S": {
+            "id": "650580000000029653",
+            "name": "Mens Half Sleeve Round Neck T-Shirt  Grey Melange -  S",
+            "stock": 197,
+            "price": 175,
+            "sku": "PWRNGMS-011M"
+          },
+          "XL": {
+            "id": "650580000000029659",
+            "name": "Mens Half Sleeve Round Neck T-Shirt  Grey Melange -  XL",
+            "stock": 172,
+            "price": 175,
+            "sku": "PWRNGMXL-011M"
+          },
+          "XS": {
+            "id": "650580000000029651",
+            "name": "Mens Half Sleeve Round Neck T-Shirt  Grey Melange -  XS",
+            "stock": 200,
+            "price": 175,
+            "sku": "PWRNGMXS-011M"
+          }
+        }
+      },
+      "Maroon": {
+        "sizes": {
+          "2XL": {
+            "id": "650580000000029277",
+            "name": "Mens Half Sleeve Round Neck T-Shirt  Maroon -  2XL",
+            "stock": 218,
+            "price": 200,
+            "sku": "PWRNMA2XL-006M"
+          },
+          "L": {
+            "id": "650580000000029273",
+            "name": "Mens Half Sleeve Round Neck T-Shirt  Maroon -  L",
+            "stock": 189,
+            "price": 175,
+            "sku": "PWRNMAL-006M"
+          },
+          "M": {
+            "id": "650580000000029271",
+            "name": "Mens Half Sleeve Round Neck T-Shirt  Maroon -  M",
+            "stock": 219,
+            "price": 175,
+            "sku": "PWRNMAM-006M"
+          },
+          "S": {
+            "id": "650580000000029269",
+            "name": "Mens Half Sleeve Round Neck T-Shirt  Maroon -  S",
+            "stock": 243,
+            "price": 175,
+            "sku": "PWRNMAS-006M"
+          },
+          "XL": {
+            "id": "650580000000029275",
+            "name": "Mens Half Sleeve Round Neck T-Shirt  Maroon -  XL",
+            "stock": 200,
+            "price": 175,
+            "sku": "PWRNMAXL-006M"
+          },
+          "XS": {
+            "id": "650580000000029267",
+            "name": "Mens Half Sleeve Round Neck T-Shirt  Maroon -  XS",
+            "stock": 248,
+            "price": 175,
+            "sku": "PWRNMAXS-006M"
+          }
+        }
+      },
+      "Mustard Yellow": {
+        "sizes": {
+          "2XL": {
+            "id": "650580000000024327",
+            "name": "Mens Half Sleeve Round Neck T-Shirt  Mustard Yellow -  2XL",
+            "stock": 285,
+            "price": 200,
+            "sku": "PWRNMY2XL-004M"
+          },
+          "L": {
+            "id": "650580000000024323",
+            "name": "Mens Half Sleeve Round Neck T-Shirt  Mustard Yellow -  L",
+            "stock": 283,
+            "price": 175,
+            "sku": "PWRNMYL-004M"
+          },
+          "M": {
+            "id": "650580000000024321",
+            "name": "Mens Half Sleeve Round Neck T-Shirt  Mustard Yellow -  M",
+            "stock": 282,
+            "price": 175,
+            "sku": "PWRNMYM-004M"
+          },
+          "S": {
+            "id": "650580000000024319",
+            "name": "Mens Half Sleeve Round Neck T-Shirt  Mustard Yellow -  S",
+            "stock": 298,
+            "price": 175,
+            "sku": "PWRNMYS-004M"
+          },
+          "XL": {
+            "id": "650580000000024325",
+            "name": "Mens Half Sleeve Round Neck T-Shirt  Mustard Yellow -  XL",
+            "stock": 284,
+            "price": 175,
+            "sku": "PWRNMYXL-004M"
+          },
+          "XS": {
+            "id": "650580000000024317",
+            "name": "Mens Half Sleeve Round Neck T-Shirt  Mustard Yellow -  XS",
+            "stock": 298,
+            "price": 175,
+            "sku": "PWRNMYXS-004M"
+          }
+        }
+      },
+      "Navy Blue": {
+        "sizes": {
+          "2XL": {
+            "id": "650580000000024015",
+            "name": "Mens Half Sleeve Round Neck T-Shirt  Navy Blue -  2XL",
+            "stock": 341,
+            "price": 200,
+            "sku": "PWRNNB2XL-007M"
+          },
+          "L": {
+            "id": "650580000000024011",
+            "name": "Mens Half Sleeve Round Neck T-Shirt  Navy Blue -  L",
+            "stock": 293,
+            "price": 175,
+            "sku": "PWRNNBL-007M"
+          },
+          "M": {
+            "id": "650580000000024009",
+            "name": "Mens Half Sleeve Round Neck T-Shirt  Navy Blue -  M",
+            "stock": 496,
+            "price": 175,
+            "sku": "PWRNNBM-007M"
+          },
+          "S": {
+            "id": "650580000000024007",
+            "name": "Mens Half Sleeve Round Neck T-Shirt  Navy Blue -  S",
+            "stock": 366,
+            "price": 175,
+            "sku": "PWRNNBS-007M"
+          },
+          "XL": {
+            "id": "650580000000024013",
+            "name": "Mens Half Sleeve Round Neck T-Shirt  Navy Blue -  XL",
+            "stock": 288,
+            "price": 175,
+            "sku": "PWRNNBXL-007M"
+          },
+          "XS": {
+            "id": "650580000000024005",
+            "name": "Mens Half Sleeve Round Neck T-Shirt  Navy Blue -  XS",
+            "stock": 397,
+            "price": 175,
+            "sku": "PWRNNBXS-007M"
+          }
+        }
+      },
+      "Olive Green": {
+        "sizes": {
+          "2XL": {
+            "id": "650580000000029469",
+            "name": "Mens Half Sleeve Round Neck T-Shirt  Olive Green -  2XL",
+            "stock": 235,
+            "price": 200,
+            "sku": "PWRNOG2XL-009M"
+          },
+          "L": {
+            "id": "650580000000029465",
+            "name": "Mens Half Sleeve Round Neck T-Shirt  Olive Green -  L",
+            "stock": 227,
+            "price": 175,
+            "sku": "PWRNOGL-009M"
+          },
+          "M": {
+            "id": "650580000000029463",
+            "name": "Mens Half Sleeve Round Neck T-Shirt  Olive Green -  M",
+            "stock": 231,
+            "price": 175,
+            "sku": "PWRNOGM-009M"
+          },
+          "S": {
+            "id": "650580000000029461",
+            "name": "Mens Half Sleeve Round Neck T-Shirt  Olive Green -  S",
+            "stock": 242,
+            "price": 175,
+            "sku": "PWRNOGS-009M"
+          },
+          "XL": {
+            "id": "650580000000029467",
+            "name": "Mens Half Sleeve Round Neck T-Shirt  Olive Green -  XL",
+            "stock": 224,
+            "price": 175,
+            "sku": "PWRNOGXL-009M"
+          },
+          "XS": {
+            "id": "650580000000029459",
+            "name": "Mens Half Sleeve Round Neck T-Shirt  Olive Green -  XS",
+            "stock": 240,
+            "price": 175,
+            "sku": "PWRNOGXS-009M"
+          }
+        }
+      },
+      "Royal Blue": {
+        "sizes": {
+          "2XL": {
+            "id": "650580000000029373",
+            "name": "Mens Half Sleeve Round Neck T-Shirt  Royal Blue -  2XL",
+            "stock": 234,
+            "price": 200,
+            "sku": "PWRNRB2XL-008M"
+          },
+          "L": {
+            "id": "650580000000029369",
+            "name": "Mens Half Sleeve Round Neck T-Shirt  Royal Blue -  L",
+            "stock": 227,
+            "price": 175,
+            "sku": "PWRNRBL-008M"
+          },
+          "M": {
+            "id": "650580000000174248",
+            "name": "Mens Half Sleeve Round Neck T-Shirt  Royal Blue -  M",
+            "stock": 172,
+            "price": 175,
+            "sku": "PWRNRB2M-008M"
+          },
+          "S": {
+            "id": "650580000000029365",
+            "name": "Mens Half Sleeve Round Neck T-Shirt  Royal Blue -  S",
+            "stock": 233,
+            "price": 175,
+            "sku": "PWRNRBS-008M"
+          },
+          "XL": {
+            "id": "650580000000029371",
+            "name": "Mens Half Sleeve Round Neck T-Shirt  Royal Blue -  XL",
+            "stock": 222,
+            "price": 175,
+            "sku": "PWRNRBXL-008M"
+          },
+          "XS": {
+            "id": "650580000000029363",
+            "name": "Mens Half Sleeve Round Neck T-Shirt  Royal Blue -  XS",
+            "stock": 247,
+            "price": 175,
+            "sku": "PWRNRBXS-008M"
+          }
+        }
+      },
+      "Turquoise": {
+        "sizes": {
+          "2XL": {
+            "id": "650580000000029049",
+            "name": "Mens Half Sleeve Round Neck T-Shirt  Turquoise Blue -  2XL",
+            "stock": 300,
+            "price": 200,
+            "sku": "PWRNTB2XL-014M"
+          },
+          "L": {
+            "id": "650580000000029045",
+            "name": "Mens Half Sleeve Round Neck T-Shirt  Turquoise Blue -  L",
+            "stock": 291,
+            "price": 175,
+            "sku": "PWRNTBL-014M"
+          },
+          "M": {
+            "id": "650580000000029043",
+            "name": "Mens Half Sleeve Round Neck T-Shirt  Turquoise Blue -  M",
+            "stock": 294,
+            "price": 175,
+            "sku": "PWRNTBM-014M"
+          },
+          "S": {
+            "id": "650580000000029041",
+            "name": "Mens Half Sleeve Round Neck T-Shirt  Turquoise Blue -  S",
+            "stock": 300,
+            "price": 175,
+            "sku": "PWRNTBS-014M"
+          },
+          "XL": {
+            "id": "650580000000029047",
+            "name": "Mens Half Sleeve Round Neck T-Shirt  Turquoise Blue -  XL",
+            "stock": 298,
+            "price": 175,
+            "sku": "PWRNTBXL-014M"
+          },
+          "XS": {
+            "id": "650580000000029039",
+            "name": "Mens Half Sleeve Round Neck T-Shirt  Turquoise Blue -  XS",
+            "stock": 300,
+            "price": 175,
+            "sku": "PWRNTBXS-014M"
+          }
+        }
+      },
+      "White": {
+        "sizes": {
+          "2XL": {
+            "id": "650580000000019027",
+            "name": "Mens Half Sleeve Round Neck T-Shirt  White -  2XL",
+            "stock": 137,
+            "price": 200,
+            "sku": "PWRNWH2XL-001M"
+          },
+          "3XL": {
+            "id": "650580000000019029",
+            "name": "Mens Half Sleeve Round Neck T-Shirt  White -  3XL",
+            "stock": 180,
+            "price": 220,
+            "sku": "PWRNWH3XL-001M"
+          },
+          "4XL": {
+            "id": "650580000000019031",
+            "name": "Mens Half Sleeve Round Neck T-Shirt  White -  4XL",
+            "stock": 175,
+            "price": 240,
+            "sku": "PWRNWH4XL-001M"
+          },
+          "5XL": {
+            "id": "650580000000019033",
+            "name": "Mens Half Sleeve Round Neck T-Shirt  White -  5XL",
+            "stock": 163,
+            "price": 260,
+            "sku": "PWRNWH5XL-001M"
+          },
+          "L": {
+            "id": "650580000000019023",
+            "name": "Mens Half Sleeve Round Neck T-Shirt  White -  L",
+            "stock": 27,
+            "price": 175,
+            "sku": "PWRNWHL-001M"
+          },
+          "M": {
+            "id": "650580000000019021",
+            "name": "Mens Half Sleeve Round Neck T-Shirt  White -  M",
+            "stock": 30,
+            "price": 175,
+            "sku": "PWRNWHM-001M"
+          },
+          "S": {
+            "id": "650580000000019019",
+            "name": "Mens Half Sleeve Round Neck T-Shirt  White -  S",
+            "stock": 215,
+            "price": 175,
+            "sku": "PWRNWHS-001M"
+          },
+          "XL": {
+            "id": "650580000000019025",
+            "name": "Mens Half Sleeve Round Neck T-Shirt  White -  XL",
+            "stock": 96,
+            "price": 175,
+            "sku": "PWRNWHXL-001M"
+          },
+          "XS": {
+            "id": "650580000000019017",
+            "name": "Mens Half Sleeve Round Neck T-Shirt  White -  XS",
+            "stock": 182,
+            "price": 175,
+            "sku": "PWRNWHXS-001M"
+          }
+        }
+      },
+      "Yellow": {
+        "sizes": {
+          "2XL": {
+            "id": "650580000000024133",
+            "name": "Mens Half Sleeve Round Neck T-Shirt  Yellow -  2XL",
+            "stock": 317,
+            "price": 200,
+            "sku": "PWRNYL2XL-003M"
+          },
+          "L": {
+            "id": "650580000000024129",
+            "name": "Mens Half Sleeve Round Neck T-Shirt  Yellow -  L",
+            "stock": 400,
+            "price": 175,
+            "sku": "PWRNYLL-003M"
+          },
+          "M": {
+            "id": "650580000000024127",
+            "name": "Mens Half Sleeve Round Neck T-Shirt  Yellow -  M",
+            "stock": 395,
+            "price": 175,
+            "sku": "PWRNYLM-003M"
+          },
+          "S": {
+            "id": "650580000000024125",
+            "name": "Mens Half Sleeve Round Neck T-Shirt  Yellow -  S",
+            "stock": 399,
+            "price": 175,
+            "sku": "PWRNYLS-003M"
+          },
+          "XL": {
+            "id": "650580000000171169",
+            "name": "Mens Half Sleeve Round Neck T-Shirt  Yellow -  XL",
+            "stock": 199,
+            "price": 175,
+            "sku": "PWRNYXL-003M"
+          },
+          "XS": {
+            "id": "650580000000174217",
+            "name": "Mens Half Sleeve Round Neck T-Shirt  Yellow -  XS",
+            "stock": 200,
+            "price": 175,
+            "sku": "PWRNYXS-003M"
+          }
+        }
+      }
+    }
+  },
+  "MENS OVERSIZE": {
+    "brand": "",
+    "manufacturer": "",
+    "colors": {
+      "Black": {
+        "sizes": {
+          "2XL": {
+            "id": "650580000002003017",
+            "name": "MENS OVERSIZE T SHIRT  Black -  2XL",
+            "stock": 10,
+            "price": 215,
+            "sku": "PWOSBKXXL-001M"
+          },
+          "L": {
+            "id": "650580000002010030",
+            "name": "MENS OVERSIZE T SHIRT  Black -  L",
+            "stock": 10,
+            "price": 215,
+            "sku": "PWOSBKL-001M"
+          },
+          "M": {
+            "id": "650580000002010001",
+            "name": "MENS OVERSIZE T SHIRT  Black -  M",
+            "stock": 9,
+            "price": 215,
+            "sku": "PWOSBKM-001M"
+          },
+          "S": {
+            "id": "650580000002002047",
+            "name": "MENS OVERSIZE T SHIRT  Black -  S",
+            "stock": 10,
+            "price": 215,
+            "sku": "PWOSBKS-001M"
+          }
+        }
+      },
+      "White": {
+        "sizes": {
+          "2XL": {
+            "id": "650580000002008002",
+            "name": "MENS OVERSIZE T SHIRT  White -  2XL",
+            "stock": 10,
+            "price": 215,
+            "sku": "PWOSWHXXL-001M"
+          },
+          "L": {
+            "id": "650580000002001060",
+            "name": "MENS OVERSIZE T SHIRT  White -  L",
+            "stock": 0,
+            "price": 215,
+            "sku": "PWOSWHL-001M"
+          },
+          "M": {
+            "id": "650580000002001031",
+            "name": "MENS OVERSIZE T SHIRT  White -  M",
+            "stock": 10,
+            "price": 215,
+            "sku": "PWOSWHM-001M"
+          },
+          "S": {
+            "id": "650580000002001002",
+            "name": "MENS OVERSIZE T SHIRT  White -  S",
+            "stock": 10,
+            "price": 215,
+            "sku": "PWOSWHS-001M"
+          }
+        }
+      }
+    }
+  },
+  "Mens Raglan Sleeve": {
+    "brand": "",
+    "manufacturer": "",
+    "colors": {
+      "Black": {
+        "sizes": {
+          "2XL": {
+            "id": "650580000000147177",
+            "name": "Mens Raglan Sleeve T-Shirt  Black -  2XL",
+            "stock": 197,
+            "price": 205,
+            "sku": "PWRNMRSMRSBK2XL-002MRS"
+          },
+          "L": {
+            "id": "650580000000192966",
+            "name": "Mens Raglan Sleeve T-Shirt  Black -  L",
+            "stock": 199,
+            "price": 195,
+            "sku": "PWRNMRSWHL-001MRS"
+          },
+          "M": {
+            "id": "650580000000194543",
+            "name": "Mens Raglan Sleeve T-Shirt  Black -  M",
+            "stock": 200,
+            "price": 195,
+            "sku": "PWRNMRSWHMRS-001MRS"
+          },
+          "S": {
+            "id": "650580000000195533",
+            "name": "Mens Raglan Sleeve T-Shirt  Black -  S",
+            "stock": 200,
+            "price": 195,
+            "sku": "PWRNMRSWHS-001MRS"
+          },
+          "XL": {
+            "id": "650580000000197437",
+            "name": "Mens Raglan Sleeve T-Shirt  Black -  XL",
+            "stock": 200,
+            "price": 195,
+            "sku": "PWRNWRSWRSBKXL-002WRS-1"
+          },
+          "XS": {
+            "id": "650580000000196340",
+            "name": "Mens Raglan Sleeve T-Shirt  Black -  XS",
+            "stock": 200,
+            "price": 195,
+            "sku": "PWRNWRSWRSBKXS-002WRS-1"
+          }
+        }
+      },
+      "Charcoal Melange": {
+        "sizes": {
+          "2XL": {
+            "id": "650580000000197462",
+            "name": "Mens Raglan Sleeve T-Shirt  Charcoal Melange -  2XL",
+            "stock": 200,
+            "price": 205,
+            "sku": "PWRNMRSMRSCM2XL-005MRS"
+          },
+          "L": {
+            "id": "650580000000193491",
+            "name": "Mens Raglan Sleeve T-Shirt  Charcoal Melange -  L",
+            "stock": 200,
+            "price": 195,
+            "sku": "PWRNMRSMRSCML-005MRS"
+          },
+          "M": {
+            "id": "650580000000192991",
+            "name": "Mens Raglan Sleeve T-Shirt  Charcoal Melange -  M",
+            "stock": 199,
+            "price": 195,
+            "sku": "PWRNMRSMRSCMMRS-005MRS"
+          },
+          "S": {
+            "id": "650580000000196365",
+            "name": "Mens Raglan Sleeve T-Shirt  Charcoal Melange -  S",
+            "stock": 200,
+            "price": 195,
+            "sku": "PWRNMRSMRSCMS-005MRS"
+          },
+          "XL": {
+            "id": "650580000000194568",
+            "name": "Mens Raglan Sleeve T-Shirt  Charcoal Melange -  XL",
+            "stock": 200,
+            "price": 195,
+            "sku": "PWRNMRSMRSCMXL-005MRS"
+          },
+          "XS": {
+            "id": "650580000000195558",
+            "name": "Mens Raglan Sleeve T-Shirt  Charcoal Melange -  XS",
+            "stock": 200,
+            "price": 195,
+            "sku": "PWRNMRSMRSCMXS-005MRS"
+          }
+        }
+      },
+      "White": {
+        "sizes": {
+          "2XL": {
+            "id": "650580000000195608",
+            "name": "Mens Raglan Sleeve T-Shirt  White -  2XL",
+            "stock": 200,
+            "price": 205,
+            "sku": "PWRNMRSWH2XL-001MRS"
+          },
+          "L": {
+            "id": "650580000000194593",
+            "name": "Mens Raglan Sleeve T-Shirt  White -  L",
+            "stock": 200,
+            "price": 195,
+            "sku": "PWRNWRSWHL-001WRS-1"
+          },
+          "M": {
+            "id": "650580000000193516",
+            "name": "Mens Raglan Sleeve T-Shirt  White -  M",
+            "stock": 200,
+            "price": 195,
+            "sku": "PWRNWRSWHM-001WRS-1"
+          },
+          "S": {
+            "id": "650580000000195583",
+            "name": "Mens Raglan Sleeve T-Shirt  White -  S",
+            "stock": 200,
+            "price": 195,
+            "sku": "PWRNWRSWHS-001WRS-1"
+          },
+          "XL": {
+            "id": "650580000000194618",
+            "name": "Mens Raglan Sleeve T-Shirt  White -  XL",
+            "stock": 200,
+            "price": 195,
+            "sku": "PWRNMRSWHXL-001MRS"
+          },
+          "XS": {
+            "id": "650580000000198016",
+            "name": "Mens Raglan Sleeve T-Shirt  White -  XS",
+            "stock": 200,
+            "price": 195,
+            "sku": "PWRNMRSWHXS-001MRS"
+          }
+        }
+      }
+    }
+  },
+  "MENS ROUND NECK": {
+    "brand": "PRINTWEAR",
+    "manufacturer": "I CLOTHING",
+    "colors": {
+      "Navy Blue": {
+        "sizes": {
+          "3XL": {
+            "id": "650580000000024017",
+            "name": "MENS ROUND NECK NAVY BLUE-3XL",
+            "stock": 0,
+            "price": 140,
+            "sku": "PWRNNB3XL-007M"
+          },
+          "4XL": {
+            "id": "650580000000024019",
+            "name": "MENS ROUND NECK NAVY BLUE-4XL",
+            "stock": 0,
+            "price": 140,
+            "sku": "PWRNNB4XL-007M"
+          },
+          "5XL": {
+            "id": "650580000000024021",
+            "name": "MENS ROUND NECK NAVY BLUE-5XL",
+            "stock": 0,
+            "price": 140,
+            "sku": "PWRNNB5XL-007M"
+          }
+        }
+      },
+      "Yellow": {
+        "sizes": {
+          "3XL": {
+            "id": "650580000000024135",
+            "name": "MENS ROUND NECK YELLOW-3XL",
+            "stock": 0,
+            "price": 140,
+            "sku": "PWRNYL3XL-003M"
+          },
+          "4XL": {
+            "id": "650580000000024137",
+            "name": "MENS ROUND NECK YELLOW-4XL",
+            "stock": 0,
+            "price": 140,
+            "sku": "PWRNYL4XL-003M"
+          },
+          "5XL": {
+            "id": "650580000000024139",
+            "name": "MENS ROUND NECK YELLOW-5XL",
+            "stock": 0,
+            "price": 140,
+            "sku": "PWRNYL5XL-003M"
+          },
+          "XL": {
+            "id": "650580000000024131",
+            "name": "MENS ROUND NECK YELLOW-XL",
+            "stock": 200,
+            "price": 140,
+            "sku": "PWRNYLXL-003M"
+          },
+          "XS": {
+            "id": "650580000000024123",
+            "name": "MENS ROUND NECK YELLOW-XS",
+            "stock": 100,
+            "price": 140,
+            "sku": "PWRNYLXS-003M"
+          }
+        }
+      },
+      "Army Green": {
+        "sizes": {
+          "3XL": {
+            "id": "650580000000029893",
+            "name": "MENS RN ARMY GREEN-3XL",
+            "stock": 0,
+            "price": 140,
+            "sku": "PWRNAG3XL-013M"
+          },
+          "4XL": {
+            "id": "650580000000029895",
+            "name": "MENS RN ARMY GREEN-4XL",
+            "stock": 0,
+            "price": 140,
+            "sku": "PWRNAG4XL-013M"
+          },
+          "5XL": {
+            "id": "650580000000029897",
+            "name": "MENS RN ARMY GREEN-5XL",
+            "stock": 0,
+            "price": 140,
+            "sku": "PWRNAG5XL-013M"
+          },
+          "M": {
+            "id": "650580000000029885",
+            "name": "MENS RN ARMY GREEN-M",
+            "stock": 0,
+            "price": 140,
+            "sku": "PWRNAGM-013M"
+          }
+        }
+      },
+      "Beige": {
+        "sizes": {
+          "3XL": {
+            "id": "650580000000030183",
+            "name": "MENS RN BEIGE-3XL",
+            "stock": 0,
+            "price": 140,
+            "sku": "PWRNBE3XL-017M"
+          },
+          "4XL": {
+            "id": "650580000000030185",
+            "name": "MENS RN BEIGE-4XL",
+            "stock": 0,
+            "price": 140,
+            "sku": "PWRNBE4XL-017M"
+          },
+          "5XL": {
+            "id": "650580000000030187",
+            "name": "MENS RN BEIGE-5XL",
+            "stock": 0,
+            "price": 140,
+            "sku": "PWRNBE5XL-017M"
+          }
+        }
+      },
+      "Bottle Green": {
+        "sizes": {
+          "3XL": {
+            "id": "650580000000030279",
+            "name": "MENS RN BOTTLE GREEN-3XL",
+            "stock": 0,
+            "price": 140,
+            "sku": "PWRNBG3XL-018M"
+          },
+          "4XL": {
+            "id": "650580000000030281",
+            "name": "MENS RN BOTTLE GREEN-4XL",
+            "stock": 0,
+            "price": 140,
+            "sku": "PWRNBG4XL-018M"
+          },
+          "5XL": {
+            "id": "650580000000030283",
+            "name": "MENS RN BOTTLE GREEN-5XL",
+            "stock": 0,
+            "price": 140,
+            "sku": "PWRNBG5XL-018M"
+          }
+        }
+      },
+      "Charcoal Melange": {
+        "sizes": {
+          "3XL": {
+            "id": "650580000000029567",
+            "name": "MENS RN CHARCOAL MELANGE-3XL",
+            "stock": 0,
+            "price": 140,
+            "sku": "PWRNCM3XL-010M"
+          },
+          "4XL": {
+            "id": "650580000000029569",
+            "name": "MENS RN CHARCOAL MELANGE-4XL",
+            "stock": 0,
+            "price": 140,
+            "sku": "PWRNCM4XL-010M"
+          },
+          "5XL": {
+            "id": "650580000000029571",
+            "name": "MENS RN CHARCOAL MELANGE-5XL",
+            "stock": 0,
+            "price": 140,
+            "sku": "PWRNCM5XL-010M"
+          }
+        }
+      },
+      "Red": {
+        "sizes": {
+          "3XL": {
+            "id": "650580000000029991",
+            "name": "MENS RN CHERRY RED-3XL",
+            "stock": 0,
+            "price": 140,
+            "sku": "PWRNCR3XL-015M"
+          },
+          "4XL": {
+            "id": "650580000000029993",
+            "name": "MENS RN CHERRY RED-4XL",
+            "stock": 0,
+            "price": 140,
+            "sku": "PWRNCR4XL-015M"
+          },
+          "5XL": {
+            "id": "650580000000029995",
+            "name": "MENS RN CHERRY RED-5XL",
+            "stock": 0,
+            "price": 140,
+            "sku": "PWRNCR5XL-015M"
+          }
+        }
+      },
+      "Chocolate Brown": {
+        "sizes": {
+          "3XL": {
+            "id": "650580000000030087",
+            "name": "MENS RN CHOCOLATE BROWN-3XL",
+            "stock": 0,
+            "price": 140,
+            "sku": "PWRNCB3XL-016M"
+          },
+          "4XL": {
+            "id": "650580000000030089",
+            "name": "MENS RN CHOCOLATE BROWN-4XL",
+            "stock": 0,
+            "price": 140,
+            "sku": "PWRNCB4XL-016M"
+          },
+          "5XL": {
+            "id": "650580000000030091",
+            "name": "MENS RN CHOCOLATE BROWN-5XL",
+            "stock": 0,
+            "price": 140,
+            "sku": "PWRNCB5XL-016M"
+          }
+        }
+      },
+      "Ecru Melange": {
+        "sizes": {
+          "3XL": {
+            "id": "650580000000029797",
+            "name": "MENS RN ECRU MELANGE-3XL",
+            "stock": 0,
+            "price": 140,
+            "sku": "PWRNEM3XL-012M"
+          },
+          "4XL": {
+            "id": "650580000000029799",
+            "name": "MENS RN ECRU MELANGE-4XL",
+            "stock": 0,
+            "price": 140,
+            "sku": "PWRNEM4XL-012M"
+          },
+          "5XL": {
+            "id": "650580000000029801",
+            "name": "MENS RN ECRU MELANGE-5XL",
+            "stock": 0,
+            "price": 140,
+            "sku": "PWRNEM5XL-012M"
+          }
+        }
+      },
+      "Maroon": {
+        "sizes": {
+          "3XL": {
+            "id": "650580000000029279",
+            "name": "MENS RN MAROON-3XL",
+            "stock": 0,
+            "price": 140,
+            "sku": "PWRNMA3XL-006M"
+          },
+          "4XL": {
+            "id": "650580000000029281",
+            "name": "MENS RN MAROON-4XL",
+            "stock": 0,
+            "price": 140,
+            "sku": "PWRNMA4XL-006M"
+          },
+          "5XL": {
+            "id": "650580000000029283",
+            "name": "MENS RN MAROON-5XL",
+            "stock": 0,
+            "price": 140,
+            "sku": "PWRNMA5XL-006M"
+          }
+        }
+      },
+      "Olive Green": {
+        "sizes": {
+          "3XL": {
+            "id": "650580000000029471",
+            "name": "MENS RN OLIVE GREEN-3XL",
+            "stock": 0,
+            "price": 140,
+            "sku": "PWRNOG3XL-009M"
+          },
+          "4XL": {
+            "id": "650580000000029473",
+            "name": "MENS RN OLIVE GREEN-4XL",
+            "stock": 0,
+            "price": 140,
+            "sku": "PWRNOG4XL-009M"
+          },
+          "5XL": {
+            "id": "650580000000029475",
+            "name": "MENS RN OLIVE GREEN-5XL",
+            "stock": 0,
+            "price": 140,
+            "sku": "PWRNOG5XL-009M"
+          }
+        }
+      },
+      "Royal Blue": {
+        "sizes": {
+          "3XL": {
+            "id": "650580000000029375",
+            "name": "MENS RN ROYAL BLUE-3XL",
+            "stock": 0,
+            "price": 140,
+            "sku": "PWRNRB3XL-008M"
+          },
+          "4XL": {
+            "id": "650580000000029377",
+            "name": "MENS RN ROYAL BLUE-4XL",
+            "stock": 0,
+            "price": 140,
+            "sku": "PWRNRB4XL-008M"
+          },
+          "5XL": {
+            "id": "650580000000029379",
+            "name": "MENS RN ROYAL BLUE-5XL",
+            "stock": 0,
+            "price": 140,
+            "sku": "PWRNRB5XL-008M"
+          },
+          "M": {
+            "id": "650580000000029367",
+            "name": "MENS RN ROYAL BLUE-M",
+            "stock": 50,
+            "price": 140,
+            "sku": "PWRNRBM-008M"
+          }
+        }
+      },
+      "Turcoise Blue": {
+        "sizes": {
+          "3XL": {
+            "id": "650580000000029051",
+            "name": "MENS RN TURCOISE BLUE-3XL",
+            "stock": 0,
+            "price": 140,
+            "sku": "PWRNTB3XL-14W"
+          },
+          "4XL": {
+            "id": "650580000000029053",
+            "name": "MENS RN TURCOISE BLUE-4XL",
+            "stock": 0,
+            "price": 140,
+            "sku": "PWRNTB4XL-014M"
+          },
+          "5XL": {
+            "id": "650580000000029055",
+            "name": "MENS RN TURCOISE BLUE-5XL",
+            "stock": 0,
+            "price": 140,
+            "sku": "PWRNTB5XL-014M"
+          }
+        }
+      },
+      "Mustard Yellow": {
+        "sizes": {
+          "3XL": {
+            "id": "650580000000024329",
+            "name": "MEN RN MUSTARD YELLOW-3XL",
+            "stock": 0,
+            "price": 140,
+            "sku": "PWRNMY3XL-004M"
+          },
+          "4XL": {
+            "id": "650580000000024331",
+            "name": "MEN RN MUSTARD YELLOW-4XL",
+            "stock": 0,
+            "price": 140,
+            "sku": "PWRNMY4XL-004M"
+          },
+          "5XL": {
+            "id": "650580000000024333",
+            "name": "MEN RN MUSTARD YELLOW-5XL",
+            "stock": 0,
+            "price": 140,
+            "sku": "PWRNMY5XL-004M"
+          }
+        }
+      }
+    }
+  },
+  "Oversize Tees": {
+    "brand": "",
+    "manufacturer": "",
+    "colors": {
+      "Black": {
+        "sizes": {
+          "2XL": {
+            "id": "650580000001029001",
+            "name": "Oversize Tees  Black -  2XL",
+            "stock": 200,
+            "price": 270,
+            "sku": "PWRNOVERSIZEOVERSIZEBK2XL-002MOVERSIZE"
+          },
+          "3XL": {
+            "id": "650580000001025029",
+            "name": "Oversize Tees  Black -  3XL",
+            "stock": 200,
+            "price": 270,
+            "sku": "PWRNOVERSIZEOVERSIZEBK3XL-002MOVERSIZE"
+          },
+          "4XL": {
+            "id": "650580000001027023",
+            "name": "Oversize Tees  Black -  4XL",
+            "stock": 200,
+            "price": 290,
+            "sku": "PWRNOVERSIZEOVERSIZEBK4XL-002MOVERSIZE"
+          },
+          "5XL": {
+            "id": "650580000001026018",
+            "name": "Oversize Tees  Black -  5XL",
+            "stock": 200,
+            "price": 290,
+            "sku": "PWRNOVERSIZEOVERSIZEBK5XL-002MOVERSIZE"
+          },
+          "6XL": {
+            "id": "650580000001022081",
+            "name": "Oversize Tees  Black -  6XL",
+            "stock": 200,
+            "price": 310,
+            "sku": "PWRNOVERSIZEOVERSIZEBK6XL-002MOVERSIZE"
+          },
+          "L": {
+            "id": "650580000001025054",
+            "name": "Oversize Tees  Black -  L",
+            "stock": 200,
+            "price": 250,
+            "sku": "PWRNOVERSIZEOVERSIZEBKL-002MOVERSIZE"
+          },
+          "M": {
+            "id": "650580000001025079",
+            "name": "Oversize Tees  Black -  M",
+            "stock": 200,
+            "price": 250,
+            "sku": "PWRNOVERSIZEOVERSIZEBKM-002MOVERSIZE"
+          },
+          "S": {
+            "id": "650580000001029026",
+            "name": "Oversize Tees  Black -  S",
+            "stock": 200,
+            "price": 250,
+            "sku": "PWRNOVERSIZEOVERSIZEBKS-002MOVERSIZE"
+          },
+          "XL": {
+            "id": "650580000001027048",
+            "name": "Oversize Tees  Black -  XL",
+            "stock": 200,
+            "price": 250,
+            "sku": "PWRNOVERSIZEOVERSIZEBKXL-002MOVERSIZE"
+          }
+        }
+      },
+      "White": {
+        "sizes": {
+          "2XL": {
+            "id": "650580000001030003",
+            "name": "Oversize Tees  White -  2XL",
+            "stock": 200,
+            "price": 270,
+            "sku": "PWRNOVERSIZEWH2XL-001MOVERSIZE"
+          },
+          "3XL": {
+            "id": "650580000001027089",
+            "name": "Oversize Tees  White -  3XL",
+            "stock": 200,
+            "price": 270,
+            "sku": "PWRNOVERSIZEWH3XL-001MOVERSIZE"
+          },
+          "4XL": {
+            "id": "650580000001029096",
+            "name": "Oversize Tees  White -  4XL",
+            "stock": 200,
+            "price": 290,
+            "sku": "PWRNOVERSIZEWH4XL-001MOVERSIZE"
+          },
+          "5XL": {
+            "id": "650580000001022106",
+            "name": "Oversize Tees  White -  5XL",
+            "stock": 200,
+            "price": 290,
+            "sku": "PWRNOVERSIZEWH5XL-001MOVERSIZE"
+          },
+          "6XL": {
+            "id": "650580000001029071",
+            "name": "Oversize Tees  White -  6XL",
+            "stock": 200,
+            "price": 310,
+            "sku": "PWRNOVERSIZEWH6XL-001MOVERSIZE"
+          },
+          "L": {
+            "id": "650580000001025108",
+            "name": "Oversize Tees  White -  L",
+            "stock": 200,
+            "price": 250,
+            "sku": "PWRNVESTWHL-001MVEST-1"
+          },
+          "M": {
+            "id": "650580000001031001",
+            "name": "Oversize Tees  White -  M",
+            "stock": 200,
+            "price": 250,
+            "sku": "PWRNOVERSIZEWHL-001MOVERSIZE"
+          },
+          "S": {
+            "id": "650580000001027140",
+            "name": "Oversize Tees  White -  S",
+            "stock": 200,
+            "price": 250,
+            "sku": "PWRNOVERSIZEWHS-001MOVERSIZE"
+          },
+          "XL": {
+            "id": "650580000001022131",
+            "name": "Oversize Tees  White -  XL",
+            "stock": 200,
+            "price": 250,
+            "sku": "PWRNOVERSIZEWHXL-001MOVERSIZE"
+          }
+        }
+      }
+    }
+  },
+  "Oversized T-Shirt": {
+    "brand": "",
+    "manufacturer": "",
+    "colors": {
+      "Black": {
+        "sizes": {
+          "2XL": {
+            "id": "650580000002350001",
+            "name": "Oversized T-Shirt Black, 2XL",
+            "price": 0,
+            "sku": "wc-6884"
+          },
+          "L": {
+            "id": "650580000002251254",
+            "name": "Oversized T-Shirt Black, L",
+            "price": 0,
+            "sku": "wc-6882"
+          },
+          "M": {
+            "id": "650580000002141003",
+            "name": "Oversized T-Shirt Black, M",
+            "price": 0,
+            "sku": "wc-6881"
+          },
+          "S": {
+            "id": "650580000002246029",
+            "name": "Oversized T-Shirt Black, S",
+            "price": 0,
+            "sku": "wc-6880"
+          },
+          "XL": {
+            "id": "650580000002476002",
+            "name": "Oversized T-Shirt Black, XL",
+            "price": 0,
+            "sku": "wc-6883"
+          }
+        }
+      },
+      "Navy Blue": {
+        "sizes": {
+          "2XL": {
+            "id": "650580000002147002",
+            "name": "Oversized T-Shirt  Navy Blue -  2XL",
+            "stock": 0,
+            "price": 235,
+            "sku": ""
+          },
+          "L": {
+            "id": "650580000002140040",
+            "name": "Oversized T-Shirt  Navy Blue -  L",
+            "stock": 0,
+            "price": 215,
+            "sku": ""
+          },
+          "M": {
+            "id": "650580000002872054",
+            "name": "Oversized T-Shirt Navy Blue, M",
+            "price": 0,
+            "sku": "wc-6886"
+          },
+          "S": {
+            "id": "650580000003302001",
+            "name": "Oversized T-Shirt Navy Blue, S",
+            "price": 0,
+            "sku": "wc-6885"
+          },
+          "XL": {
+            "id": "650580000002150001",
+            "name": "Oversized T-Shirt  Navy Blue -  XL",
+            "stock": 0,
+            "price": 215,
+            "sku": ""
+          }
+        }
+      },
+      "Red": {
+        "sizes": {
+          "2XL": {
+            "id": "650580000002148010",
+            "name": "Oversized T-Shirt  Red -  2XL",
+            "stock": 0,
+            "price": 235,
+            "sku": ""
+          },
+          "L": {
+            "id": "650580000002138035",
+            "name": "Oversized T-Shirt  Red -  L",
+            "stock": 0,
+            "price": 215,
+            "sku": ""
+          },
+          "M": {
+            "id": "650580000003412003",
+            "name": "Oversized T-Shirt Red, M",
+            "price": 0,
+            "sku": "wc-6891"
+          },
+          "S": {
+            "id": "650580000003672001",
+            "name": "Oversized T-Shirt Red, S",
+            "price": 0,
+            "sku": "wc-6890"
+          },
+          "XL": {
+            "id": "650580000002147011",
+            "name": "Oversized T-Shirt  Red -  XL",
+            "stock": 0,
+            "price": 215,
+            "sku": ""
+          }
+        }
+      },
+      "White": {
+        "sizes": {
+          "2XL": {
+            "id": "650580000002873017",
+            "name": "Oversized T-Shirt White, 2XL",
+            "price": 0,
+            "sku": "wc-6899"
+          },
+          "L": {
+            "id": "650580000002213003",
+            "name": "Oversized T-Shirt White, L",
+            "price": 0,
+            "sku": "wc-6897"
+          },
+          "M": {
+            "id": "650580000002308001",
+            "name": "Oversized T-Shirt White, M",
+            "price": 0,
+            "sku": "wc-6896"
+          },
+          "S": {
+            "id": "650580000002212002",
+            "name": "Oversized T-Shirt White, S",
+            "price": 0,
+            "sku": "wc-6895"
+          },
+          "XL": {
+            "id": "650580000002192001",
+            "name": "Oversized T-Shirt White, XL",
+            "price": 0,
+            "sku": "wc-6898"
+          }
+        }
+      }
+    }
+  },
+  "Sweatshirts": {
+    "brand": "PRINTWEAR",
+    "manufacturer": "I CLOTHING",
+    "colors": {
+      "Black": {
+        "sizes": {
+          "2XL": {
+            "id": "650580000000031525",
+            "name": "Sweatshirts  Black -  2XL",
+            "stock": 195,
+            "price": 480,
+            "sku": "PWSBK2XL-001SS"
+          },
+          "L": {
+            "id": "650580000000031521",
+            "name": "Sweatshirts  Black -  L",
+            "stock": 179,
+            "price": 470,
+            "sku": "PWSBKL-001SS"
+          },
+          "M": {
+            "id": "650580000000031519",
+            "name": "Sweatshirts  Black -  M",
+            "stock": 188,
+            "price": 470,
+            "sku": "PWSBKM-001SS"
+          },
+          "S": {
+            "id": "650580000000031517",
+            "name": "Sweatshirts  Black -  S",
+            "stock": 185,
+            "price": 470,
+            "sku": "PWSBKS-001SS"
+          },
+          "XL": {
+            "id": "650580000000031523",
+            "name": "Sweatshirts  Black -  XL",
+            "stock": 5,
+            "price": 470,
+            "sku": "PWSBKXL-001SS"
+          }
+        }
+      },
+      "Charcoal Melange": {
+        "sizes": {
+          "2XL": {
+            "id": "650580000000031569",
+            "name": "Sweatshirts  Charcoal Melange -  2XL",
+            "stock": 17,
+            "price": 480,
+            "sku": "PWSCM2XL-010SS"
+          },
+          "L": {
+            "id": "650580000000031565",
+            "name": "Sweatshirts  Charcoal Melange -  L",
+            "stock": 0,
+            "price": 470,
+            "sku": "PWSCML-010SS"
+          },
+          "M": {
+            "id": "650580000000031563",
+            "name": "Sweatshirts  Charcoal Melange -  M",
+            "stock": 3,
+            "price": 470,
+            "sku": "PWSCMM-010SS"
+          },
+          "S": {
+            "id": "650580000000031561",
+            "name": "Sweatshirts  Charcoal Melange -  S",
+            "stock": 8,
+            "price": 470,
+            "sku": "PWSCMS-010SS"
+          },
+          "XL": {
+            "id": "650580000000031567",
+            "name": "Sweatshirts  Charcoal Melange -  XL",
+            "stock": 19,
+            "price": 470,
+            "sku": "PWSCMXL-010SS"
+          }
+        }
+      },
+      "Ecru Melange": {
+        "sizes": {
+          "2XL": {
+            "id": "650580000000031633",
+            "name": "Sweatshirts  Ecru Melange -  2XL",
+            "stock": 0,
+            "price": 480,
+            "sku": "PWSEM2XL-012SS"
+          },
+          "L": {
+            "id": "650580000000031629",
+            "name": "Sweatshirts  Ecru Melange -  L",
+            "stock": 0,
+            "price": 470,
+            "sku": "PWSEML-012SS"
+          },
+          "M": {
+            "id": "650580000000031627",
+            "name": "Sweatshirts  Ecru Melange -  M",
+            "stock": 4,
+            "price": 470,
+            "sku": "PWSEMM-012SS"
+          },
+          "S": {
+            "id": "650580000000031625",
+            "name": "Sweatshirts  Ecru Melange -  S",
+            "stock": 14,
+            "price": 470,
+            "sku": "PWSEMS-012SS"
+          },
+          "XL": {
+            "id": "650580000000031631",
+            "name": "Sweatshirts  Ecru Melange -  XL",
+            "stock": 23,
+            "price": 470,
+            "sku": "PWSEMXL-012SS"
+          }
+        }
+      },
+      "Grey Melange": {
+        "sizes": {
+          "2XL": {
+            "id": "650580000000031677",
+            "name": "Sweatshirts  Grey Melange -  2XL",
+            "stock": 13,
+            "price": 480,
+            "sku": "PWSGM2XL-011SS"
+          },
+          "L": {
+            "id": "650580000000031673",
+            "name": "Sweatshirts  Grey Melange -  L",
+            "stock": 4,
+            "price": 470,
+            "sku": "PWSGML-011SS"
+          },
+          "M": {
+            "id": "650580000000031671",
+            "name": "Sweatshirts  Grey Melange -  M",
+            "stock": 16,
+            "price": 470,
+            "sku": "PWSGMM-011SS"
+          },
+          "S": {
+            "id": "650580000000031669",
+            "name": "Sweatshirts  Grey Melange -  S",
+            "stock": 12,
+            "price": 470,
+            "sku": "PWSGMS-011SS"
+          },
+          "XL": {
+            "id": "650580000000031675",
+            "name": "Sweatshirts  Grey Melange -  XL",
+            "stock": 13,
+            "price": 470,
+            "sku": "PWSGMXL-011SS"
+          }
+        }
+      },
+      "Mustard Yellow": {
+        "sizes": {
+          "2XL": {
+            "id": "650580000000274443",
+            "name": "Sweatshirts  Mustard Yellow -  2XL",
+            "stock": 5,
+            "price": 480,
+            "sku": "PWSSMY2XL-005SS"
+          },
+          "L": {
+            "id": "650580000000272454",
+            "name": "Sweatshirts  Mustard Yellow -  L",
+            "stock": 7,
+            "price": 470,
+            "sku": "PWSSMYL-005SS"
+          },
+          "M": {
+            "id": "650580000000274393",
+            "name": "Sweatshirts  Mustard Yellow -  M",
+            "stock": 5,
+            "price": 470,
+            "sku": "PWSSMYM-005SS"
+          },
+          "S": {
+            "id": "650580000000271426",
+            "name": "Sweatshirts  Mustard Yellow -  S",
+            "stock": 15,
+            "price": 470,
+            "sku": "PWSSMYXS-005SS"
+          },
+          "XL": {
+            "id": "650580000000274418",
+            "name": "Sweatshirts  Mustard Yellow -  XL",
+            "stock": 4,
+            "price": 470,
+            "sku": "PWSSMYXL-005SS"
+          }
+        }
+      },
+      "Navy Blue": {
+        "sizes": {
+          "2XL": {
+            "id": "650580000000031721",
+            "name": "Sweatshirts  Navy Blue -  2XL",
+            "stock": 11,
+            "price": 480,
+            "sku": "PWSNB2XL-007SS"
+          },
+          "L": {
+            "id": "650580000000031717",
+            "name": "Sweatshirts  Navy Blue -  L",
+            "stock": 6,
+            "price": 470,
+            "sku": "PWSNBL-007SS"
+          },
+          "M": {
+            "id": "650580000000031715",
+            "name": "Sweatshirts  Navy Blue -  M",
+            "stock": 197,
+            "price": 470,
+            "sku": "PWSNBM-007SS"
+          },
+          "S": {
+            "id": "650580000000031713",
+            "name": "Sweatshirts  Navy Blue -  S",
+            "stock": 11,
+            "price": 470,
+            "sku": "PWSNBS-007SS"
+          },
+          "XL": {
+            "id": "650580000000031719",
+            "name": "Sweatshirts  Navy Blue -  XL",
+            "stock": 13,
+            "price": 470,
+            "sku": "PWSNBXL-007SS"
+          }
+        }
+      },
+      "Red": {
+        "sizes": {
+          "2XL": {
+            "id": "650580000000195406",
+            "name": "Sweatshirts  Red -  2XL",
+            "stock": 14,
+            "price": 480,
+            "sku": "PWSSDRD2XL-005SS"
+          },
+          "L": {
+            "id": "650580000000195431",
+            "name": "Sweatshirts  Red -  L",
+            "stock": 12,
+            "price": 470,
+            "sku": "PWSSDRDL-005SS"
+          },
+          "M": {
+            "id": "650580000000193273",
+            "name": "Sweatshirts  Red -  M",
+            "stock": 19,
+            "price": 470,
+            "sku": "PWSSDRDM-005SS"
+          },
+          "S": {
+            "id": "650580000000193298",
+            "name": "Sweatshirts  Red -  S",
+            "stock": 19,
+            "price": 470,
+            "sku": "PWSSDRDS-005SS"
+          },
+          "XL": {
+            "id": "650580000000195456",
+            "name": "Sweatshirts  Red -  XL",
+            "stock": 13,
+            "price": 470,
+            "sku": "PWSSDRDXL-005SS"
+          }
+        }
+      },
+      "White": {
+        "sizes": {
+          "2XL": {
+            "id": "650580000000193323",
+            "name": "Sweatshirts  White -  2XL",
+            "stock": 2,
+            "price": 480,
+            "sku": "PWSSDWSS2XL-001SS"
+          },
+          "M": {
+            "id": "650580000000147135",
+            "name": "Sweatshirts  White -  M",
+            "stock": 193,
+            "price": 470,
+            "sku": "PWSSDWSSM-001SS"
+          },
+          "S": {
+            "id": "650580000000193348",
+            "name": "Sweatshirts  White -  S",
+            "stock": 194,
+            "price": 470,
+            "sku": "PWSSDWSSS-001SS"
+          },
+          "XL": {
+            "id": "650580000000192793",
+            "name": "Sweatshirts  White -  XL",
+            "stock": 8,
+            "price": 470,
+            "sku": "PWSSDWSSXL-001SS"
+          },
+          "L": {
+            "id": "650580000000172329",
+            "name": "Sweatshirts White, L",
+            "price": 0,
+            "sku": "PWSSDWSSL-001SS"
+          }
+        }
+      }
+    }
+  },
+  "Women Boyfriend": {
+    "brand": "",
+    "manufacturer": "",
+    "colors": {
+      "Black": {
+        "sizes": {
+          "S": {
+            "id": "650580000003693001",
+            "name": "Women Boyfriend T-Shirt Black, S",
+            "price": 0,
+            "sku": "PWBFTBKS-002WBFT"
+          },
+          "XL": {
+            "id": "650580000002054047",
+            "name": "Women Boyfriend T-Shirt Black, XL",
+            "price": 0,
+            "sku": "PWBFTBKXL-002WBFT"
+          }
+        }
+      }
+    }
+  },
+  "Womens 3/4": {
+    "brand": "",
+    "manufacturer": "",
+    "colors": {
+      "Black": {
+        "sizes": {
+          "2XL": {
+            "id": "650580000000169083",
+            "name": "Womens 3/4 Sleeve T-Shirt  Black -  2XL",
+            "stock": 200,
+            "price": 225,
+            "sku": "PWRNFSBK2XL-002WFS"
+          },
+          "L": {
+            "id": "650580000000195633",
+            "name": "Womens 3/4 Sleeve T-Shirt  Black -  L",
+            "stock": 200,
+            "price": 195,
+            "sku": "PWRNFSBKL-002WFS"
+          },
+          "M": {
+            "id": "650580000000197517",
+            "name": "Womens 3/4 Sleeve T-Shirt  Black -  M",
+            "stock": 200,
+            "price": 195,
+            "sku": "PWRNFSBKM-002WFS"
+          },
+          "S": {
+            "id": "650580000000197542",
+            "name": "Womens 3/4 Sleeve T-Shirt  Black -  S",
+            "stock": 199,
+            "price": 195,
+            "sku": "PWRNFSBKS-002WFS"
+          },
+          "XL": {
+            "id": "650580000000195658",
+            "name": "Womens 3/4 Sleeve T-Shirt  Black -  XL",
+            "stock": 200,
+            "price": 195,
+            "sku": "PWRNFSBKXL-002WFS"
+          },
+          "XS": {
+            "id": "650580000000198041",
+            "name": "Womens 3/4 Sleeve T-Shirt  Black -  XS",
+            "stock": 200,
+            "price": 195,
+            "sku": "PWRNFSBKXS-002WFS"
+          }
+        }
+      },
+      "Red": {
+        "sizes": {
+          "2XL": {
+            "id": "650580000000194727",
+            "name": "Womens 3/4 Sleeve T-Shirt  Red -  2XL",
+            "stock": 200,
+            "price": 205,
+            "sku": "PWRNFSRD2XL-005WFS"
+          },
+          "L": {
+            "id": "650580000000196528",
+            "name": "Womens 3/4 Sleeve T-Shirt  Red -  L",
+            "stock": 200,
+            "price": 195,
+            "sku": "PWRNFSRDL-005WFS"
+          },
+          "M": {
+            "id": "650580000000194752",
+            "name": "Womens 3/4 Sleeve T-Shirt  Red -  M",
+            "stock": 200,
+            "price": 195,
+            "sku": "PWRNFSRDM-005WFS"
+          },
+          "S": {
+            "id": "650580000000197567",
+            "name": "Womens 3/4 Sleeve T-Shirt  Red -  S",
+            "stock": 200,
+            "price": 195,
+            "sku": "PWRNFSRDS-005WFS"
+          },
+          "XL": {
+            "id": "650580000000196553",
+            "name": "Womens 3/4 Sleeve T-Shirt  Red -  XL",
+            "stock": 200,
+            "price": 195,
+            "sku": "PWRNFSRDXL-005WFS"
+          },
+          "XS": {
+            "id": "650580000000195683",
+            "name": "Womens 3/4 Sleeve T-Shirt  Red -  XS",
+            "stock": 200,
+            "price": 195,
+            "sku": "PWRNFSRDXS-005WFS"
+          }
+        }
+      },
+      "White": {
+        "sizes": {
+          "2XL": {
+            "id": "650580000000195708",
+            "name": "Womens 3/4 Sleeve T-Shirt  White -  2XL",
+            "stock": 200,
+            "price": 205,
+            "sku": "PWRNFSWH2XL-001WFS"
+          },
+          "L": {
+            "id": "650580000000196578",
+            "name": "Womens 3/4 Sleeve T-Shirt  White -  L",
+            "stock": 200,
+            "price": 195,
+            "sku": "PWRNFSWHL-001WFS"
+          },
+          "M": {
+            "id": "650580000000194777",
+            "name": "Womens 3/4 Sleeve T-Shirt  White -  M",
+            "stock": 200,
+            "price": 195,
+            "sku": "PWRNFSWHM-001WFS"
+          },
+          "S": {
+            "id": "650580000000198066",
+            "name": "Womens 3/4 Sleeve T-Shirt  White -  S",
+            "stock": 200,
+            "price": 195,
+            "sku": "PWRNFSWHS-001WFS"
+          },
+          "XL": {
+            "id": "650580000000193571",
+            "name": "Womens 3/4 Sleeve T-Shirt  White -  XL",
+            "stock": 200,
+            "price": 195,
+            "sku": "PWRNFSWHXL-001WFS"
+          },
+          "XS": {
+            "id": "650580000000196603",
+            "name": "Womens 3/4 Sleeve T-Shirt  White -  XS",
+            "stock": 199,
+            "price": 195,
+            "sku": "PWRNFSWHXS-001WFS"
+          }
+        }
+      }
+    }
+  },
+  "Womens Boyfriend": {
+    "brand": "",
+    "manufacturer": "",
+    "colors": {
+      "Black": {
+        "sizes": {
+          "2XL": {
+            "id": "650580000000660001",
+            "name": "Womens Boyfriend tees  Black -  2XL",
+            "stock": 200,
+            "price": 160,
+            "sku": "PWRNRBL-008W-1"
+          },
+          "L": {
+            "id": "650580000001089043",
+            "name": "Womens Boyfriend tees Black, L",
+            "price": 0,
+            "sku": "PWBFTBKL-002WBFT"
+          },
+          "M": {
+            "id": "650580000000617026",
+            "name": "Womens Boyfriend tees  Black -  M",
+            "stock": 200,
+            "price": 195,
+            "sku": "PWRNWRSWRSBKL-002WRS-1"
+          },
+          "S": {
+            "id": "650580000000617001",
+            "name": "Womens Boyfriend tees  Black -  S",
+            "stock": 200,
+            "price": 205,
+            "sku": "PWRNWRSWRSBK2XL-002WRS-1"
+          },
+          "XL": {
+            "id": "650580000000618026",
+            "name": "Womens Boyfriend tees  Black -  XL",
+            "stock": 200,
+            "price": 195,
+            "sku": "PWRNWRSWRSBKS-002WRS-1"
+          },
+          "XS": {
+            "id": "650580000001331059",
+            "name": "Womens Boyfriend tees Black, XS",
+            "price": 0,
+            "sku": "PWBFTBKXS-002WBFT"
+          }
+        }
+      },
+      "White": {
+        "sizes": {
+          "2XL": {
+            "id": "650580000000660026",
+            "name": "Womens Boyfriend tees  White -  2XL",
+            "stock": 200,
+            "price": 250,
+            "sku": "PWRNTBL-014W-1"
+          },
+          "L": {
+            "id": "650580000000608065",
+            "name": "Womens Boyfriend tees  White -  L",
+            "stock": 200,
+            "price": 195,
+            "sku": "PWRNWRSWRSCMM-005WRS-1"
+          },
+          "M": {
+            "id": "650580000000615838",
+            "name": "Womens Boyfriend tees  White -  M",
+            "stock": 200,
+            "price": 195,
+            "sku": "PWRNWRSWRSCML-005WRS-1"
+          },
+          "S": {
+            "id": "650580000000609003",
+            "name": "Womens Boyfriend tees  White -  S",
+            "stock": 200,
+            "price": 195,
+            "sku": "PWRNWRSWRSBKXS-002WRS-2"
+          },
+          "XL": {
+            "id": "650580000000609028",
+            "name": "Womens Boyfriend tees  White -  XL",
+            "stock": 200,
+            "price": 205,
+            "sku": "PWRNWRSWRSCM2XL-005WRS-1"
+          },
+          "XS": {
+            "id": "650580000000618051",
+            "name": "Womens Boyfriend tees  White -  XS",
+            "stock": 200,
+            "price": 195,
+            "sku": "PWRNWRSWRSCMS-005WRS-1"
+          }
+        }
+      }
+    }
+  },
+  "Womens Half Sleeve": {
+    "brand": "PRINTWEAR",
+    "manufacturer": "I CLOTHING",
+    "colors": {
+      "Black": {
+        "sizes": {
+          "2XL": {
+            "id": "650580000000030439",
+            "name": "Womens Half Sleeve Round Neck T-Shirt  Black -  2XL",
+            "stock": 185,
+            "price": 180,
+            "sku": "PWRNBK2XL-002W"
+          },
+          "L": {
+            "id": "650580000000030435",
+            "name": "Womens Half Sleeve Round Neck T-Shirt  Black -  L",
+            "stock": 185,
+            "price": 160,
+            "sku": "PWRNBKL-002W"
+          },
+          "M": {
+            "id": "650580000000030433",
+            "name": "Womens Half Sleeve Round Neck T-Shirt  Black -  M",
+            "stock": 177,
+            "price": 160,
+            "sku": "PWRNBKM-002W"
+          },
+          "S": {
+            "id": "650580000000030431",
+            "name": "Womens Half Sleeve Round Neck T-Shirt  Black -  S",
+            "stock": 187,
+            "price": 160,
+            "sku": "PWRNBKS-002W"
+          },
+          "XL": {
+            "id": "650580000000030437",
+            "name": "Womens Half Sleeve Round Neck T-Shirt  Black -  XL",
+            "stock": 188,
+            "price": 160,
+            "sku": "PWRNBKXL-002W"
+          },
+          "XS": {
+            "id": "650580000000030429",
+            "name": "Womens Half Sleeve Round Neck T-Shirt  Black -  XS",
+            "stock": 200,
+            "price": 160,
+            "sku": "PWRNBKXS-002W"
+          }
+        }
+      },
+      "Charcoal Melange": {
+        "sizes": {
+          "2XL": {
+            "id": "650580000000193055",
+            "name": "Womens Half Sleeve Round Neck T-Shirt  Charcoal Melange -  2XL",
+            "stock": 200,
+            "price": 180,
+            "sku": "PWRNCM2XL-010W"
+          },
+          "L": {
+            "id": "650580000000192222",
+            "name": "Womens Half Sleeve Round Neck T-Shirt  Charcoal Melange -  L",
+            "stock": 200,
+            "price": 160,
+            "sku": "PWRNCML-010W"
+          },
+          "M": {
+            "id": "650580000000188997",
+            "name": "Womens Half Sleeve Round Neck T-Shirt  Charcoal Melange -  M",
+            "stock": 200,
+            "price": 160,
+            "sku": "PWRNCMM-010W"
+          },
+          "S": {
+            "id": "650580000000189788",
+            "name": "Womens Half Sleeve Round Neck T-Shirt  Charcoal Melange -  S",
+            "stock": 200,
+            "price": 160,
+            "sku": "PWRNCMS-010W"
+          },
+          "XL": {
+            "id": "650580000000185978",
+            "name": "Womens Half Sleeve Round Neck T-Shirt  Charcoal Melange -  XL",
+            "stock": 200,
+            "price": 160,
+            "sku": "PWRNCMXL-010W"
+          },
+          "XS": {
+            "id": "650580000000192247",
+            "name": "Womens Half Sleeve Round Neck T-Shirt  Charcoal Melange -  XS",
+            "stock": 200,
+            "price": 160,
+            "sku": "PWRNCMXS-010W"
+          }
+        }
+      },
+      "Ecru Melange": {
+        "sizes": {
+          "2XL": {
+            "id": "650580000000031155",
+            "name": "Womens Half Sleeve Round Neck T-Shirt  Ecru Melange -  2XL",
+            "stock": 200,
+            "price": 180,
+            "sku": "PWRNEM2XL-012W"
+          },
+          "L": {
+            "id": "650580000000031151",
+            "name": "Womens Half Sleeve Round Neck T-Shirt  Ecru Melange -  L",
+            "stock": 200,
+            "price": 160,
+            "sku": "PWRNEML-012W"
+          },
+          "M": {
+            "id": "650580000000031149",
+            "name": "Womens Half Sleeve Round Neck T-Shirt  Ecru Melange -  M",
+            "stock": 199,
+            "price": 160,
+            "sku": "PWRNEMM-012W"
+          },
+          "S": {
+            "id": "650580000000031147",
+            "name": "Womens Half Sleeve Round Neck T-Shirt  Ecru Melange -  S",
+            "stock": 199,
+            "price": 160,
+            "sku": "PWRNEMS-012W"
+          },
+          "XL": {
+            "id": "650580000000031153",
+            "name": "Womens Half Sleeve Round Neck T-Shirt  Ecru Melange -  XL",
+            "stock": 200,
+            "price": 160,
+            "sku": "PWRNEMXL-012W"
+          },
+          "XS": {
+            "id": "650580000000031145",
+            "name": "Womens Half Sleeve Round Neck T-Shirt  Ecru Melange -  XS",
+            "stock": 200,
+            "price": 160,
+            "sku": "PWRNEMXS-012W"
+          }
+        }
+      },
+      "Grey Melange": {
+        "sizes": {
+          "2XL": {
+            "id": "650580000000031051",
+            "name": "Womens Half Sleeve Round Neck T-Shirt  Grey Melange -  2XL",
+            "stock": 200,
+            "price": 180,
+            "sku": "PWRNGM2XL-011W"
+          },
+          "L": {
+            "id": "650580000000031047",
+            "name": "Womens Half Sleeve Round Neck T-Shirt  Grey Melange -  L",
+            "stock": 199,
+            "price": 160,
+            "sku": "PWRNGML-011W"
+          },
+          "M": {
+            "id": "650580000000031045",
+            "name": "Womens Half Sleeve Round Neck T-Shirt  Grey Melange -  M",
+            "stock": 200,
+            "price": 160,
+            "sku": "PWRNGMM-011W"
+          },
+          "S": {
+            "id": "650580000000031043",
+            "name": "Womens Half Sleeve Round Neck T-Shirt  Grey Melange -  S",
+            "stock": 198,
+            "price": 160,
+            "sku": "PWRNGMS-011W"
+          },
+          "XL": {
+            "id": "650580000000031049",
+            "name": "Womens Half Sleeve Round Neck T-Shirt  Grey Melange -  XL",
+            "stock": 198,
+            "price": 160,
+            "sku": "PWRNGMXL-011W"
+          },
+          "XS": {
+            "id": "650580000000031041",
+            "name": "Womens Half Sleeve Round Neck T-Shirt  Grey Melange -  XS",
+            "stock": 200,
+            "price": 160,
+            "sku": "PWRNGMXS-011W"
+          }
+        }
+      },
+      "Mustard Yellow": {
+        "sizes": {
+          "2XL": {
+            "id": "650580000000030581",
+            "name": "Womens Half Sleeve Round Neck T-Shirt  Mustard Yellow -  2XL",
+            "stock": 200,
+            "price": 180,
+            "sku": "PWRNMY2XL-004W"
+          },
+          "L": {
+            "id": "650580000000030577",
+            "name": "Womens Half Sleeve Round Neck T-Shirt  Mustard Yellow -  L",
+            "stock": 199,
+            "price": 160,
+            "sku": "PWRNMYL-004W"
+          },
+          "M": {
+            "id": "650580000000030575",
+            "name": "Womens Half Sleeve Round Neck T-Shirt  Mustard Yellow -  M",
+            "stock": 199,
+            "price": 160,
+            "sku": "PWRNMYM-004W"
+          },
+          "S": {
+            "id": "650580000000030573",
+            "name": "Womens Half Sleeve Round Neck T-Shirt  Mustard Yellow -  S",
+            "stock": 200,
+            "price": 160,
+            "sku": "PWRNMYS-004W"
+          },
+          "XL": {
+            "id": "650580000000030579",
+            "name": "Womens Half Sleeve Round Neck T-Shirt  Mustard Yellow -  XL",
+            "stock": 199,
+            "price": 160,
+            "sku": "PWRNMYXL-004W"
+          },
+          "XS": {
+            "id": "650580000000030571",
+            "name": "Womens Half Sleeve Round Neck T-Shirt  Mustard Yellow -  XS",
+            "stock": 200,
+            "price": 160,
+            "sku": "PWRNMYXS-004W"
+          }
+        }
+      },
+      "Navy Blue": {
+        "sizes": {
+          "2XL": {
+            "id": "650580000000030895",
+            "name": "Womens Half Sleeve Round Neck T-Shirt  Navy Blue -  2XL",
+            "stock": 194,
+            "price": 180,
+            "sku": "PWRNNB2XL-007W"
+          },
+          "L": {
+            "id": "650580000000030891",
+            "name": "Womens Half Sleeve Round Neck T-Shirt  Navy Blue -  L",
+            "stock": 196,
+            "price": 160,
+            "sku": "PWRNNBL-007W"
+          },
+          "M": {
+            "id": "650580000000030889",
+            "name": "Womens Half Sleeve Round Neck T-Shirt  Navy Blue -  M",
+            "stock": 194,
+            "price": 160,
+            "sku": "PWRNNBM-007W"
+          },
+          "S": {
+            "id": "650580000000030887",
+            "name": "Womens Half Sleeve Round Neck T-Shirt  Navy Blue -  S",
+            "stock": 198,
+            "price": 160,
+            "sku": "PWRNNBS-007W"
+          },
+          "XL": {
+            "id": "650580000000030893",
+            "name": "Womens Half Sleeve Round Neck T-Shirt  Navy Blue -  XL",
+            "stock": 195,
+            "price": 160,
+            "sku": "PWRNNBXL-007W"
+          },
+          "XS": {
+            "id": "650580000000030885",
+            "name": "Womens Half Sleeve Round Neck T-Shirt  Navy Blue -  XS",
+            "stock": 200,
+            "price": 160,
+            "sku": "PWRNNBXS-007W"
+          }
+        }
+      },
+      "Olive Green": {
+        "sizes": {
+          "2XL": {
+            "id": "650580000000030999",
+            "name": "Womens Half Sleeve Round Neck T-Shirt  Olive Green -  2XL",
+            "stock": 200,
+            "price": 180,
+            "sku": "PWRNOG2XL-009W"
+          },
+          "L": {
+            "id": "650580000000030995",
+            "name": "Womens Half Sleeve Round Neck T-Shirt  Olive Green -  L",
+            "stock": 198,
+            "price": 160,
+            "sku": "PWRNOGL-009W"
+          },
+          "M": {
+            "id": "650580000000030993",
+            "name": "Womens Half Sleeve Round Neck T-Shirt  Olive Green -  M",
+            "stock": 200,
+            "price": 160,
+            "sku": "PWRNOGM-009W"
+          },
+          "S": {
+            "id": "650580000000030991",
+            "name": "Womens Half Sleeve Round Neck T-Shirt  Olive Green -  S",
+            "stock": 200,
+            "price": 160,
+            "sku": "PWRNOGS-009W"
+          },
+          "XL": {
+            "id": "650580000000030997",
+            "name": "Womens Half Sleeve Round Neck T-Shirt  Olive Green -  XL",
+            "stock": 200,
+            "price": 160,
+            "sku": "PWRNOGXL-009W"
+          },
+          "XS": {
+            "id": "650580000000030989",
+            "name": "Womens Half Sleeve Round Neck T-Shirt  Olive Green -  XS",
+            "stock": 200,
+            "price": 160,
+            "sku": "PWRNOGXS-009W"
+          }
+        }
+      },
+      "Pink": {
+        "sizes": {
+          "2XL": {
+            "id": "650580000000030491",
+            "name": "Womens Half Sleeve Round Neck T-Shirt  Pink -  2XL",
+            "stock": 200,
+            "price": 180,
+            "sku": "PWRNPK2XL-013W"
+          },
+          "L": {
+            "id": "650580000000030487",
+            "name": "Womens Half Sleeve Round Neck T-Shirt  Pink -  L",
+            "stock": 198,
+            "price": 160,
+            "sku": "PWRNPKL-013W"
+          },
+          "M": {
+            "id": "650580000000030485",
+            "name": "Womens Half Sleeve Round Neck T-Shirt  Pink -  M",
+            "stock": 198,
+            "price": 160,
+            "sku": "PWRNPKM-013W"
+          },
+          "S": {
+            "id": "650580000000030483",
+            "name": "Womens Half Sleeve Round Neck T-Shirt  Pink -  S",
+            "stock": 200,
+            "price": 160,
+            "sku": "PWRNPKS-013W"
+          },
+          "XL": {
+            "id": "650580000000030489",
+            "name": "Womens Half Sleeve Round Neck T-Shirt  Pink -  XL",
+            "stock": 200,
+            "price": 160,
+            "sku": "PWRNPKXL-013W"
+          },
+          "XS": {
+            "id": "650580000000030481",
+            "name": "Womens Half Sleeve Round Neck T-Shirt  Pink -  XS",
+            "stock": 200,
+            "price": 160,
+            "sku": "PWRNPKXS-013W"
+          }
+        }
+      },
+      "Red": {
+        "sizes": {
+          "2XL": {
+            "id": "650580000000030777",
+            "name": "Womens Half Sleeve Round Neck T-Shirt  Red -  2XL",
+            "stock": 200,
+            "price": 180,
+            "sku": "PWRNRD2XL-005W"
+          },
+          "L": {
+            "id": "650580000000030773",
+            "name": "Womens Half Sleeve Round Neck T-Shirt  Red -  L",
+            "stock": 200,
+            "price": 160,
+            "sku": "PWRNRDL-005W"
+          },
+          "M": {
+            "id": "650580000000030771",
+            "name": "Womens Half Sleeve Round Neck T-Shirt  Red -  M",
+            "stock": 199,
+            "price": 160,
+            "sku": "PWRNRDM-005W"
+          },
+          "S": {
+            "id": "650580000000030769",
+            "name": "Womens Half Sleeve Round Neck T-Shirt  Red -  S",
+            "stock": 197,
+            "price": 160,
+            "sku": "PWRNRDS-005W"
+          },
+          "XL": {
+            "id": "650580000000030775",
+            "name": "Womens Half Sleeve Round Neck T-Shirt  Red -  XL",
+            "stock": 200,
+            "price": 160,
+            "sku": "PWRNRDXL-005W"
+          },
+          "XS": {
+            "id": "650580000000030767",
+            "name": "Womens Half Sleeve Round Neck T-Shirt  Red -  XS",
+            "stock": 200,
+            "price": 160,
+            "sku": "PWRNRDXS-005W"
+          }
+        }
+      },
+      "Royal Blue": {
+        "sizes": {
+          "2XL": {
+            "id": "650580000000030947",
+            "name": "Womens Half Sleeve Round Neck T-Shirt  Royal Blue -  2XL",
+            "stock": 199,
+            "price": 180,
+            "sku": "PWRNRB2XL-008W"
+          },
+          "L": {
+            "id": "650580000000030943",
+            "name": "Womens Half Sleeve Round Neck T-Shirt  Royal Blue -  L",
+            "stock": 200,
+            "price": 160,
+            "sku": "PWRNRBL-008W"
+          },
+          "M": {
+            "id": "650580000000030941",
+            "name": "Womens Half Sleeve Round Neck T-Shirt  Royal Blue -  M",
+            "stock": 200,
+            "price": 160,
+            "sku": "PWRNRBM-008W"
+          },
+          "S": {
+            "id": "650580000000030939",
+            "name": "Womens Half Sleeve Round Neck T-Shirt  Royal Blue -  S",
+            "stock": 199,
+            "price": 160,
+            "sku": "PWRNRBS-008W"
+          },
+          "XL": {
+            "id": "650580000000030945",
+            "name": "Womens Half Sleeve Round Neck T-Shirt  Royal Blue -  XL",
+            "stock": 200,
+            "price": 160,
+            "sku": "PWRNRBXL-008W"
+          },
+          "XS": {
+            "id": "650580000000030937",
+            "name": "Womens Half Sleeve Round Neck T-Shirt  Royal Blue -  XS",
+            "stock": 200,
+            "price": 160,
+            "sku": "PWRNRBXS-008W"
+          }
+        }
+      },
+      "Turquoise Blue": {
+        "sizes": {
+          "2XL": {
+            "id": "650580000000189655",
+            "name": "Womens Half Sleeve Round Neck T-Shirt  Turquoise Blue -  2XL",
+            "stock": 200,
+            "price": 180,
+            "sku": "PWRNTB2XL-014W"
+          },
+          "L": {
+            "id": "650580000000030825",
+            "name": "Womens Half Sleeve Round Neck T-Shirt  Turquoise Blue -  L",
+            "stock": 197,
+            "price": 160,
+            "sku": "PWRNTBL-014W"
+          },
+          "M": {
+            "id": "650580000000030823",
+            "name": "Womens Half Sleeve Round Neck T-Shirt  Turquoise Blue -  M",
+            "stock": 199,
+            "price": 160,
+            "sku": "PWRNTBM-014W"
+          },
+          "S": {
+            "id": "650580000000030821",
+            "name": "Womens Half Sleeve Round Neck T-Shirt  Turquoise Blue -  S",
+            "stock": 200,
+            "price": 160,
+            "sku": "PWRNTBS-014W"
+          },
+          "XL": {
+            "id": "650580000000030827",
+            "name": "Womens Half Sleeve Round Neck T-Shirt  Turquoise Blue -  XL",
+            "stock": 200,
+            "price": 160,
+            "sku": "PWRNTBXL-014W"
+          },
+          "XS": {
+            "id": "650580000000030819",
+            "name": "Womens Half Sleeve Round Neck T-Shirt  Turquoise Blue -  XS",
+            "stock": 200,
+            "price": 160,
+            "sku": "PWRNTBXS-014W"
+          }
+        }
+      },
+      "White": {
+        "sizes": {
+          "2XL": {
+            "id": "650580000000030373",
+            "name": "Womens Half Sleeve Round Neck T-Shirt  White -  2XL",
+            "stock": 197,
+            "price": 180,
+            "sku": "PWRNWH2XL-001W"
+          },
+          "L": {
+            "id": "650580000000030369",
+            "name": "Womens Half Sleeve Round Neck T-Shirt  White -  L",
+            "stock": 195,
+            "price": 160,
+            "sku": "PWRNWHL-001W"
+          },
+          "M": {
+            "id": "650580000000030367",
+            "name": "Womens Half Sleeve Round Neck T-Shirt  White -  M",
+            "stock": 194,
+            "price": 160,
+            "sku": "PWRNWHM-001W"
+          },
+          "S": {
+            "id": "650580000000030365",
+            "name": "Womens Half Sleeve Round Neck T-Shirt  White -  S",
+            "stock": 198,
+            "price": 160,
+            "sku": "PWRNWHS-001W"
+          },
+          "XL": {
+            "id": "650580000000030371",
+            "name": "Womens Half Sleeve Round Neck T-Shirt  White -  XL",
+            "stock": 196,
+            "price": 160,
+            "sku": "PWRNWHXL-001W"
+          },
+          "XS": {
+            "id": "650580000000030363",
+            "name": "Womens Half Sleeve Round Neck T-Shirt  White -  XS",
+            "stock": 200,
+            "price": 160,
+            "sku": "PWRNWHXS-001W"
+          }
+        }
+      }
+    }
+  },
+  "Womens Raglan Sleeve": {
+    "brand": "",
+    "manufacturer": "",
+    "colors": {
+      "Black": {
+        "sizes": {
+          "2XL": {
+            "id": "650580000000194427",
+            "name": "Womens Raglan Sleeve T-Shirt  Black -  2XL",
+            "stock": 200,
+            "price": 205,
+            "sku": "PWRNWRSWRSBK2XL-002WRS"
+          },
+          "L": {
+            "id": "650580000000192867",
+            "name": "Womens Raglan Sleeve T-Shirt  Black -  L",
+            "stock": 200,
+            "price": 195,
+            "sku": "PWRNWRSWRSBKL-002WRS"
+          },
+          "M": {
+            "id": "650580000000193382",
+            "name": "Womens Raglan Sleeve T-Shirt  Black -  M",
+            "stock": 200,
+            "price": 195,
+            "sku": "PWRNWRSWRSBKM-002WRS"
+          },
+          "S": {
+            "id": "650580000000193407",
+            "name": "Womens Raglan Sleeve T-Shirt  Black -  S",
+            "stock": 200,
+            "price": 195,
+            "sku": "PWRNWRSWRSBKS-002WRS"
+          },
+          "XL": {
+            "id": "650580000000196290",
+            "name": "Womens Raglan Sleeve T-Shirt  Black -  XL",
+            "stock": 200,
+            "price": 195,
+            "sku": "PWRNWRSWRSBKXL-002WRS"
+          },
+          "XS": {
+            "id": "650580000000193432",
+            "name": "Womens Raglan Sleeve T-Shirt  Black -  XS",
+            "stock": 200,
+            "price": 195,
+            "sku": "PWRNWRSWRSBKXS-002WRS"
+          }
+        }
+      },
+      "Charcoal Melange": {
+        "sizes": {
+          "2XL": {
+            "id": "650580000000194452",
+            "name": "Womens Raglan Sleeve T-Shirt  Charcoal Melange -  2XL",
+            "stock": 199,
+            "price": 205,
+            "sku": "PWRNWRSWRSCM2XL-005WRS"
+          },
+          "L": {
+            "id": "650580000000197282",
+            "name": "Womens Raglan Sleeve T-Shirt  Charcoal Melange -  L",
+            "stock": 200,
+            "price": 195,
+            "sku": "PWRNWRSWRSCML-005WRS"
+          },
+          "M": {
+            "id": "650580000000195508",
+            "name": "Womens Raglan Sleeve T-Shirt  Charcoal Melange -  M",
+            "stock": 199,
+            "price": 195,
+            "sku": "PWRNWRSWRSCMM-005WRS"
+          },
+          "S": {
+            "id": "650580000000192892",
+            "name": "Womens Raglan Sleeve T-Shirt  Charcoal Melange -  S",
+            "stock": 200,
+            "price": 195,
+            "sku": "PWRNWRSWRSCMS-005WRS"
+          },
+          "XL": {
+            "id": "650580000000192917",
+            "name": "Womens Raglan Sleeve T-Shirt  Charcoal Melange -  XL",
+            "stock": 200,
+            "price": 195,
+            "sku": "PWRNWRSWRSCMXL-005WRS"
+          },
+          "XS": {
+            "id": "650580000000197307",
+            "name": "Womens Raglan Sleeve T-Shirt  Charcoal Melange -  XS",
+            "stock": 200,
+            "price": 195,
+            "sku": "PWRNWRSWRSCMXS-005WRS"
+          }
+        }
+      },
+      "White": {
+        "sizes": {
+          "2XL": {
+            "id": "650580000000194502",
+            "name": "Womens Raglan Sleeve T-Shirt  White -  2XL",
+            "stock": 200,
+            "price": 205,
+            "sku": "PWRNWRSWH2XL-001WRS"
+          },
+          "L": {
+            "id": "650580000000197332",
+            "name": "Womens Raglan Sleeve T-Shirt  White -  L",
+            "stock": 200,
+            "price": 195,
+            "sku": "PWRNWRSWHL-001WRS"
+          },
+          "M": {
+            "id": "650580000000194477",
+            "name": "Womens Raglan Sleeve T-Shirt  White -  M",
+            "stock": 200,
+            "price": 195,
+            "sku": "PWRNWRSWHM-001WRS"
+          },
+          "S": {
+            "id": "650580000000197357",
+            "name": "Womens Raglan Sleeve T-Shirt  White -  S",
+            "stock": 200,
+            "price": 195,
+            "sku": "PWRNWRSWHS-001WRS"
+          },
+          "XL": {
+            "id": "650580000000196315",
+            "name": "Womens Raglan Sleeve T-Shirt  White -  XL",
+            "stock": 200,
+            "price": 195,
+            "sku": "PWRNWRSWHXL-001WRS"
+          },
+          "XS": {
+            "id": "650580000000197412",
+            "name": "Womens Raglan Sleeve T-Shirt  White -  XS",
+            "stock": 200,
+            "price": 195,
+            "sku": "PWRNWRSWHXS-001WRS"
+          }
+        }
+      }
+    }
+  },
+  "WOMENS RN": {
+    "brand": "PRINTWEAR",
+    "manufacturer": "I CLOTHING",
+    "colors": {
+      "Grey Melange": {
+        "sizes": {
+          "2XL": {
+            "id": "650580000000031103",
+            "name": "WOMENS RN GREY MELANGE-2XL",
+            "stock": 0,
+            "price": 140,
+            "sku": "PWRNGM2XL-11W"
+          },
+          "L": {
+            "id": "650580000000031099",
+            "name": "WOMENS RN GREY MELANGE-L",
+            "stock": 0,
+            "price": 140,
+            "sku": "PWRNGML-11W"
+          },
+          "M": {
+            "id": "650580000000031097",
+            "name": "WOMENS RN GREY MELANGE-M",
+            "stock": 0,
+            "price": 140,
+            "sku": "PWRNGMM-11W"
+          },
+          "S": {
+            "id": "650580000000031095",
+            "name": "WOMENS RN GREY MELANGE-S",
+            "stock": 0,
+            "price": 140,
+            "sku": "PWRNGMS-11W"
+          },
+          "XL": {
+            "id": "650580000000031101",
+            "name": "WOMENS RN GREY MELANGE-XL",
+            "stock": 0,
+            "price": 140,
+            "sku": "PWRNGMXL-11W"
+          },
+          "XS": {
+            "id": "650580000000031093",
+            "name": "WOMENS RN GREY MELANGE-XS",
+            "stock": 0,
+            "price": 140,
+            "sku": "PWRNGMXS-11W"
+          }
+        }
+      },
+      "Turquoise": {
+        "sizes": {
+          "2XL": {
+            "id": "650580000000030829",
+            "name": "WOMENS RN TURQUOISE BLUE-2XL",
+            "stock": 0,
+            "price": 140,
+            "sku": "PWRNTB2XL-14W"
+          }
+        }
+      }
+    }
+  },
+  "Work Wear Polo": {
+    "brand": "",
+    "manufacturer": "",
+    "colors": {
+      "Beige": {
+        "sizes": {
+          "2XL": {
+            "id": "650580000000171029",
+            "name": "Work Wear Polo  Beige -  2XL",
+            "stock": 194,
+            "price": 180,
+            "sku": "PWWWBG2XL-006WW"
+          },
+          "L": {
+            "id": "650580000000209024",
+            "name": "Work Wear Polo  Beige -  L",
+            "stock": 159,
+            "price": 180,
+            "sku": "PWWWBGL-006WW"
+          },
+          "M": {
+            "id": "650580000000206354",
+            "name": "Work Wear Polo  Beige -  M",
+            "stock": 196,
+            "price": 180,
+            "sku": "PWWWBGM-006WW"
+          },
+          "S": {
+            "id": "650580000000196956",
+            "name": "Work Wear Polo  Beige -  S",
+            "stock": 200,
+            "price": 180,
+            "sku": "PWWWBGS-006WW"
+          },
+          "XL": {
+            "id": "650580000000204425",
+            "name": "Work Wear Polo  Beige -  XL",
+            "stock": 170,
+            "price": 180,
+            "sku": "PWWWBGXL-006WW"
+          }
+        }
+      },
+      "Black": {
+        "sizes": {
+          "2XL": {
+            "id": "650580000000194994",
+            "name": "Work Wear Polo  Black -  2XL",
+            "stock": 194,
+            "price": 180,
+            "sku": "PWWWBK2XL-001WW"
+          },
+          "L": {
+            "id": "650580000000204087",
+            "name": "Work Wear Polo  Black -  L",
+            "stock": 172,
+            "price": 180,
+            "sku": "PWWWBKL-001WW"
+          },
+          "M": {
+            "id": "650580000000201163",
+            "name": "Work Wear Polo  Black -  M",
+            "stock": 194,
+            "price": 180,
+            "sku": "PWWWBKM-001WW"
+          },
+          "XL": {
+            "id": "650580000000201188",
+            "name": "Work Wear Polo  Black -  XL",
+            "stock": 180,
+            "price": 180,
+            "sku": "PWWWBKXL-001WW"
+          },
+          "S": {
+            "id": "650580000000174476",
+            "name": "Work Wear Polo Black, S",
+            "price": 0,
+            "sku": "PWWWBKS-001WW"
+          }
+        }
+      },
+      "Charcoal Melange": {
+        "sizes": {
+          "2XL": {
+            "id": "650580000000204112",
+            "name": "Work Wear Polo  Charcoal Melange -  2XL",
+            "stock": 200,
+            "price": 180,
+            "sku": "PWWWCM2XL-004WW"
+          },
+          "L": {
+            "id": "650580000000206019",
+            "name": "Work Wear Polo  Charcoal Melange -  L",
+            "stock": 200,
+            "price": 180,
+            "sku": "PWWWCML-004WW"
+          },
+          "M": {
+            "id": "650580000000204137",
+            "name": "Work Wear Polo  Charcoal Melange -  M",
+            "stock": 200,
+            "price": 180,
+            "sku": "PWWWCMM-004WW"
+          },
+          "S": {
+            "id": "650580000000206044",
+            "name": "Work Wear Polo  Charcoal Melange -  S",
+            "stock": 200,
+            "price": 180,
+            "sku": "PWWWCMS-004WW"
+          },
+          "XL": {
+            "id": "650580000000196834",
+            "name": "Work Wear Polo  Charcoal Melange -  XL",
+            "stock": 200,
+            "price": 180,
+            "sku": "PWWWCMXL-004WW"
+          }
+        }
+      },
+      "Grey Melange": {
+        "sizes": {
+          "2XL": {
+            "id": "650580000000197757",
+            "name": "Work Wear Polo  Grey Melange -  2XL",
+            "stock": 199,
+            "price": 180,
+            "sku": "PWWWGM2XL-003WW"
+          },
+          "L": {
+            "id": "650580000000206069",
+            "name": "Work Wear Polo  Grey Melange -  L",
+            "stock": 200,
+            "price": 180,
+            "sku": "PWWWGML-003WW"
+          },
+          "M": {
+            "id": "650580000000201213",
+            "name": "Work Wear Polo  Grey Melange -  M",
+            "stock": 200,
+            "price": 180,
+            "sku": "PWWWGMM-003WW"
+          },
+          "S": {
+            "id": "650580000000197782",
+            "name": "Work Wear Polo  Grey Melange -  S",
+            "stock": 200,
+            "price": 180,
+            "sku": "PWWWGMS-003WW"
+          },
+          "XL": {
+            "id": "650580000000201238",
+            "name": "Work Wear Polo  Grey Melange -  XL",
+            "stock": 200,
+            "price": 180,
+            "sku": "PWWWGMXL-003WW"
+          }
+        }
+      },
+      "Leaf Green": {
+        "sizes": {
+          "2XL": {
+            "id": "650580000000202105",
+            "name": "Work Wear Polo  LEAF GREEN -  2XL",
+            "stock": 200,
+            "price": 180,
+            "sku": "PWWWLG2XL-006WW"
+          },
+          "L": {
+            "id": "650580000000197807",
+            "name": "Work Wear Polo  LEAF GREEN -  L",
+            "stock": 200,
+            "price": 180,
+            "sku": "PWWWLGL-006WW"
+          },
+          "M": {
+            "id": "650580000000206094",
+            "name": "Work Wear Polo  LEAF GREEN -  M",
+            "stock": 200,
+            "price": 180,
+            "sku": "PWWWLGM-006WW"
+          },
+          "S": {
+            "id": "650580000000201263",
+            "name": "Work Wear Polo  LEAF GREEN -  S",
+            "stock": 200,
+            "price": 180,
+            "sku": "PWWWLGS-006WW"
+          },
+          "XL": {
+            "id": "650580000000196859",
+            "name": "Work Wear Polo  LEAF GREEN -  XL",
+            "stock": 200,
+            "price": 180,
+            "sku": "PWWWLGXL-006WW"
+          }
+        }
+      },
+      "Maroon": {
+        "sizes": {
+          "2XL": {
+            "id": "650580000000204162",
+            "name": "Work Wear Polo  Maroon -  2XL",
+            "stock": 200,
+            "price": 180,
+            "sku": "PWWWMA2XL-005WW"
+          },
+          "L": {
+            "id": "650580000000196884",
+            "name": "Work Wear Polo  Maroon -  L",
+            "stock": 196,
+            "price": 180,
+            "sku": "PWWWMAL-005WW"
+          },
+          "M": {
+            "id": "650580000000206119",
+            "name": "Work Wear Polo  Maroon -  M",
+            "stock": 196,
+            "price": 180,
+            "sku": "PWWWMAM-005WW"
+          },
+          "S": {
+            "id": "650580000000206144",
+            "name": "Work Wear Polo  Maroon -  S",
+            "stock": 198,
+            "price": 180,
+            "sku": "PWWWMAS-005WW"
+          },
+          "XL": {
+            "id": "650580000000204187",
+            "name": "Work Wear Polo  Maroon -  XL",
+            "stock": 200,
+            "price": 180,
+            "sku": "PWWWMAXL-005WW"
+          }
+        }
+      },
+      "Navy": {
+        "sizes": {
+          "2XL": {
+            "id": "650580000000197832",
+            "name": "Work Wear Polo  NAVY -  2XL",
+            "stock": 196,
+            "price": 180,
+            "sku": "PWWWNA2XL-006WW"
+          },
+          "L": {
+            "id": "650580000000206169",
+            "name": "Work Wear Polo  NAVY -  L",
+            "stock": 191,
+            "price": 180,
+            "sku": "PWWWNAL-006WW"
+          },
+          "M": {
+            "id": "650580000000204212",
+            "name": "Work Wear Polo  NAVY -  M",
+            "stock": 199,
+            "price": 180,
+            "sku": "PWWWNAM-006WW"
+          },
+          "S": {
+            "id": "650580000000196909",
+            "name": "Work Wear Polo  NAVY -  S",
+            "stock": 200,
+            "price": 180,
+            "sku": "PWWWNAS-006WW"
+          },
+          "XL": {
+            "id": "650580000000206194",
+            "name": "Work Wear Polo  NAVY -  XL",
+            "stock": 197,
+            "price": 180,
+            "sku": "PWWWNAXL-006WW"
+          }
+        }
+      },
+      "Turquoise": {
+        "sizes": {
+          "2XL": {
+            "id": "650580000000202130",
+            "name": "Work Wear Polo  Turquoise Blue -  2XL",
+            "stock": 199,
+            "price": 180,
+            "sku": "PWWWTB2XL-006WW"
+          },
+          "L": {
+            "id": "650580000000148252",
+            "name": "Work Wear Polo  Turquoise Blue -  L",
+            "stock": 199,
+            "price": 180,
+            "sku": "PWWWTBL-006WW"
+          },
+          "M": {
+            "id": "650580000000201288",
+            "name": "Work Wear Polo  Turquoise Blue -  M",
+            "stock": 200,
+            "price": 180,
+            "sku": "PWWWTBM-006WW"
+          },
+          "S": {
+            "id": "650580000000197857",
+            "name": "Work Wear Polo  Turquoise Blue -  S",
+            "stock": 200,
+            "price": 180,
+            "sku": "PWWWTBS-006WW"
+          },
+          "XL": {
+            "id": "650580000000204237",
+            "name": "Work Wear Polo  Turquoise Blue -  XL",
+            "stock": 200,
+            "price": 180,
+            "sku": "PWWWTBXL-006WW"
+          }
+        }
+      },
+      "White": {
+        "sizes": {
+          "2XL": {
+            "id": "650580000000201313",
+            "name": "Work Wear Polo  White -  2XL",
+            "stock": 200,
+            "price": 180,
+            "sku": "PWWWWH2XL-002WW"
+          },
+          "L": {
+            "id": "650580000000204262",
+            "name": "Work Wear Polo  White -  L",
+            "stock": 192,
+            "price": 180,
+            "sku": "PWWWWHL-002WW"
+          },
+          "M": {
+            "id": "650580000000197882",
+            "name": "Work Wear Polo  White -  M",
+            "stock": 198,
+            "price": 180,
+            "sku": "PWWWWHM-002WW"
+          },
+          "S": {
+            "id": "650580000000201338",
+            "name": "Work Wear Polo  White -  S",
+            "stock": 198,
+            "price": 180,
+            "sku": "PWWWWHS-002WW"
+          },
+          "XL": {
+            "id": "650580000000201363",
+            "name": "Work Wear Polo  White -  XL",
+            "stock": 199,
+            "price": 180,
+            "sku": "PWWWWHXL-002WW"
+          }
+        }
+      },
+      "Yellow": {
+        "sizes": {
+          "2XL": {
+            "id": "650580000000206219",
+            "name": "Work Wear Polo  Yellow -  2XL",
+            "stock": 200,
+            "price": 180,
+            "sku": "PWWWYL2XL-006WW"
+          },
+          "L": {
+            "id": "650580000000197907",
+            "name": "Work Wear Polo  Yellow -  L",
+            "stock": 200,
+            "price": 180,
+            "sku": "PWWWYLL-006WW"
+          },
+          "M": {
+            "id": "650580000000204287",
+            "name": "Work Wear Polo  Yellow -  M",
+            "stock": 200,
+            "price": 180,
+            "sku": "PWWWYLM-006WW"
+          },
+          "S": {
+            "id": "650580000000197932",
+            "name": "Work Wear Polo  Yellow -  S",
+            "stock": 200,
+            "price": 180,
+            "sku": "PWWWYLS-006WW"
+          },
+          "XL": {
+            "id": "650580000000204312",
+            "name": "Work Wear Polo  Yellow -  XL",
+            "stock": 200,
+            "price": 180,
+            "sku": "PWWWYLXL-006WW"
+          }
+        }
+      }
+    }
+  },
+  "WORKWEAR POLO": {
+    "brand": "PRINTWEAR",
+    "manufacturer": "I CLOTHING",
+    "colors": {
+      "Beige": {
+        "sizes": {
+          "2XL": {
+            "id": "650580000000034055",
+            "name": "WORKWEAR POLO BEIGE-2XL",
+            "stock": 0,
+            "price": 120,
+            "sku": "PWWPBE2XL-017WP"
+          },
+          "L": {
+            "id": "650580000000034051",
+            "name": "WORKWEAR POLO BEIGE-L",
+            "stock": 0,
+            "price": 120,
+            "sku": "PWWPBEL-017WP"
+          },
+          "M": {
+            "id": "650580000000034049",
+            "name": "WORKWEAR POLO BEIGE-M",
+            "stock": 0,
+            "price": 120,
+            "sku": "PWWPBEM-017WP"
+          },
+          "S": {
+            "id": "650580000000034047",
+            "name": "WORKWEAR POLO BEIGE-S",
+            "stock": 0,
+            "price": 120,
+            "sku": "PWWPBES-017WP"
+          },
+          "XL": {
+            "id": "650580000000034053",
+            "name": "WORKWEAR POLO BEIGE-XL",
+            "stock": 0,
+            "price": 120,
+            "sku": "PWWPBEXL-017WP"
+          }
+        }
+      },
+      "Black": {
+        "sizes": {
+          "2XL": {
+            "id": "650580000000031835",
+            "name": "WORKWEAR POLO BLACK-2XL",
+            "stock": 0,
+            "price": 120,
+            "sku": "PWWPBK2XL-001WP"
+          },
+          "L": {
+            "id": "650580000000031831",
+            "name": "WORKWEAR POLO BLACK-L",
+            "stock": 0,
+            "price": 120,
+            "sku": "PWWPBKL-001WP"
+          },
+          "M": {
+            "id": "650580000000031829",
+            "name": "WORKWEAR POLO BLACK-M",
+            "stock": 0,
+            "price": 120,
+            "sku": "PWWPBKM-001WP"
+          },
+          "S": {
+            "id": "650580000000031827",
+            "name": "WORKWEAR POLO BLACK-S",
+            "stock": 0,
+            "price": 120,
+            "sku": "PWWPBKS-001WP"
+          },
+          "XL": {
+            "id": "650580000000031833",
+            "name": "WORKWEAR POLO BLACK-XL",
+            "stock": 0,
+            "price": 120,
+            "sku": "PWWPBKXL-001WP"
+          }
+        }
+      },
+      "Ecru Melange": {
+        "sizes": {
+          "2XL": {
+            "id": "650580000000034011",
+            "name": "WORKWEAR POLO ECRU MELANGE-2XL",
+            "stock": 0,
+            "price": 120,
+            "sku": "PWWPEM2XL-012WP"
+          },
+          "L": {
+            "id": "650580000000034007",
+            "name": "WORKWEAR POLO ECRU MELANGE-L",
+            "stock": 0,
+            "price": 120,
+            "sku": "PWWPEML-012WP"
+          },
+          "M": {
+            "id": "650580000000034005",
+            "name": "WORKWEAR POLO ECRU MELANGE-M",
+            "stock": 0,
+            "price": 120,
+            "sku": "PWWPEMM-012WP"
+          },
+          "S": {
+            "id": "650580000000034003",
+            "name": "WORKWEAR POLO ECRU MELANGE-S",
+            "stock": 0,
+            "price": 120,
+            "sku": "PWWPEMS-012WP"
+          },
+          "XL": {
+            "id": "650580000000034009",
+            "name": "WORKWEAR POLO ECRU MELANGE-XL",
+            "stock": 0,
+            "price": 120,
+            "sku": "PWWPEMXL-012WP"
+          }
+        }
+      },
+      "Grey Melange": {
+        "sizes": {
+          "2XL": {
+            "id": "650580000000031967",
+            "name": "WORKWEAR POLO GREY MELANGE-2XL",
+            "stock": 0,
+            "price": 120,
+            "sku": "PWWPGM2XL-011WP"
+          },
+          "L": {
+            "id": "650580000000031963",
+            "name": "WORKWEAR POLO GREY MELANGE-L",
+            "stock": 0,
+            "price": 120,
+            "sku": "PWWPGML-011WP"
+          },
+          "M": {
+            "id": "650580000000031961",
+            "name": "WORKWEAR POLO GREY MELANGE-M",
+            "stock": 0,
+            "price": 120,
+            "sku": "PWWPGMM-011WP"
+          },
+          "S": {
+            "id": "650580000000031959",
+            "name": "WORKWEAR POLO GREY MELANGE-S",
+            "stock": 0,
+            "price": 120,
+            "sku": "PWWPGMS-011WP"
+          },
+          "XL": {
+            "id": "650580000000031965",
+            "name": "WORKWEAR POLO GREY MELANGE-XL",
+            "stock": 0,
+            "price": 120,
+            "sku": "PWWPGMXL-011WP"
+          }
+        }
+      },
+      "Leaf Green": {
+        "sizes": {
+          "2XL": {
+            "id": "650580000000034155",
+            "name": "WORKWEAR POLO LEAF GREEN-2XL",
+            "stock": 0,
+            "price": 120,
+            "sku": "PWWPLG2XL-019WP"
+          },
+          "L": {
+            "id": "650580000000034151",
+            "name": "WORKWEAR POLO LEAF GREEN-L",
+            "stock": 0,
+            "price": 120,
+            "sku": "PWWPLGL-019WP"
+          },
+          "M": {
+            "id": "650580000000034149",
+            "name": "WORKWEAR POLO LEAF GREEN-M",
+            "stock": 0,
+            "price": 120,
+            "sku": "PWWPLGM-019WP"
+          },
+          "S": {
+            "id": "650580000000034147",
+            "name": "WORKWEAR POLO LEAF GREEN-S",
+            "stock": 0,
+            "price": 120,
+            "sku": "PWWPLGS-019WP"
+          },
+          "XL": {
+            "id": "650580000000034153",
+            "name": "WORKWEAR POLO LEAF GREEN-XL",
+            "stock": 0,
+            "price": 120,
+            "sku": "PWWPLGXL-019WP"
+          }
+        }
+      },
+      "Lemon Yellow": {
+        "sizes": {
+          "2XL": {
+            "id": "650580000000034099",
+            "name": "WORKWEAR POLO LEMON YELLOW-2XL",
+            "stock": 0,
+            "price": 120,
+            "sku": "PWWPLY2XL-003WP"
+          },
+          "L": {
+            "id": "650580000000034095",
+            "name": "WORKWEAR POLO LEMON YELLOW-L",
+            "stock": 0,
+            "price": 120,
+            "sku": "PWWPLYL-003WP"
+          },
+          "M": {
+            "id": "650580000000034093",
+            "name": "WORKWEAR POLO LEMON YELLOW-M",
+            "stock": 0,
+            "price": 120,
+            "sku": "PWWPLYM-003WP"
+          },
+          "S": {
+            "id": "650580000000034091",
+            "name": "WORKWEAR POLO LEMON YELLOW-S",
+            "stock": 0,
+            "price": 120,
+            "sku": "PWWPLYS-003WP"
+          },
+          "XL": {
+            "id": "650580000000034097",
+            "name": "WORKWEAR POLO LEMON YELLOW-XL",
+            "stock": 0,
+            "price": 120,
+            "sku": "PWWPLYXL-003WP"
+          }
+        }
+      },
+      "Maroon": {
+        "sizes": {
+          "2XL": {
+            "id": "650580000000031879",
+            "name": "WORKWEAR POLO MAROON-2XL",
+            "stock": 0,
+            "price": 120,
+            "sku": "PWWPMA2XL-006WP"
+          },
+          "L": {
+            "id": "650580000000031875",
+            "name": "WORKWEAR POLO MAROON-L",
+            "stock": 0,
+            "price": 120,
+            "sku": "PWWPMAL-006WP"
+          },
+          "M": {
+            "id": "650580000000031873",
+            "name": "WORKWEAR POLO MAROON-M",
+            "stock": 0,
+            "price": 120,
+            "sku": "PWWPMAM-006WP"
+          },
+          "S": {
+            "id": "650580000000031871",
+            "name": "WORKWEAR POLO MAROON-S",
+            "stock": 0,
+            "price": 120,
+            "sku": "PWWPMAS-006WP"
+          },
+          "XL": {
+            "id": "650580000000031877",
+            "name": "WORKWEAR POLO MAROON-XL",
+            "stock": 0,
+            "price": 120,
+            "sku": "PWWPMAXL-006WP"
+          }
+        }
+      },
+      "Navy Blue": {
+        "sizes": {
+          "2XL": {
+            "id": "650580000000031923",
+            "name": "WORKWEAR POLO NAVY BLUE-2XL",
+            "stock": 0,
+            "price": 120,
+            "sku": "PWWPNB2XL-007WP"
+          },
+          "L": {
+            "id": "650580000000031919",
+            "name": "WORKWEAR POLO NAVY BLUE-L",
+            "stock": 0,
+            "price": 120,
+            "sku": "PWWPNBL-007WP"
+          },
+          "M": {
+            "id": "650580000000031917",
+            "name": "WORKWEAR POLO NAVY BLUE-M",
+            "stock": 0,
+            "price": 120,
+            "sku": "PWWPNBM-007WP"
+          },
+          "S": {
+            "id": "650580000000031915",
+            "name": "WORKWEAR POLO NAVY BLUE-S",
+            "stock": 0,
+            "price": 120,
+            "sku": "PWWPNBS-007WP"
+          },
+          "XL": {
+            "id": "650580000000031921",
+            "name": "WORKWEAR POLO NAVY BLUE-XL",
+            "stock": 0,
+            "price": 120,
+            "sku": "PWWPNBXL-007WP"
+          }
+        }
+      },
+      "Royal Blue": {
+        "sizes": {
+          "2XL": {
+            "id": "650580000000034211",
+            "name": "WORKWEAR POLO ROYAL BLUE-2XL",
+            "stock": 0,
+            "price": 120,
+            "sku": "PWWPLG2XL-008WP"
+          },
+          "L": {
+            "id": "650580000000034207",
+            "name": "WORKWEAR POLO ROYAL BLUE-L",
+            "stock": 0,
+            "price": 120,
+            "sku": "PWWPLGL-008WP"
+          },
+          "M": {
+            "id": "650580000000034205",
+            "name": "WORKWEAR POLO ROYAL BLUE-M",
+            "stock": 0,
+            "price": 120,
+            "sku": "PWWPLGM-008WP"
+          },
+          "S": {
+            "id": "650580000000034203",
+            "name": "WORKWEAR POLO ROYAL BLUE-S",
+            "stock": 0,
+            "price": 120,
+            "sku": "PWWPLGS-008WP"
+          },
+          "XL": {
+            "id": "650580000000034209",
+            "name": "WORKWEAR POLO ROYAL BLUE-XL",
+            "stock": 0,
+            "price": 120,
+            "sku": "PWWPLGXL-008WP"
+          }
+        }
+      },
+      "White": {
+        "sizes": {
+          "2XL": {
+            "id": "650580000000031765",
+            "name": "WORKWEAR POLO WHITE -2XL",
+            "stock": 0,
+            "price": 120,
+            "sku": "PWWPWH2XL-002WP"
+          },
+          "L": {
+            "id": "650580000000031761",
+            "name": "WORKWEAR POLO WHITE -L",
+            "stock": 0,
+            "price": 120,
+            "sku": "PWWPWHL-002WP"
+          },
+          "M": {
+            "id": "650580000000031759",
+            "name": "WORKWEAR POLO WHITE -M",
+            "stock": 0,
+            "price": 120,
+            "sku": "PWWPWHM-002WP"
+          },
+          "XL": {
+            "id": "650580000000031763",
+            "name": "WORKWEAR POLO WHITE -XL",
+            "stock": 0,
+            "price": 120,
+            "sku": "PWWPWHXL-002WP"
+          },
+          "S": {
+            "id": "650580000000031757",
+            "name": "WORKWEAR POLO WHITE-S",
+            "stock": 0,
+            "price": 120,
+            "sku": "PWWPWHS-002WP"
+          }
+        }
+      }
+    }
+  }
+}
