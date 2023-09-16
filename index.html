@@ -8,6 +8,7 @@
     <script src="https://cdn.jsdelivr.net/npm/fabric@4.5.1/dist/fabric.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/dom-to-image/2.6.0/dom-to-image.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/FileSaver.js/2.0.2/FileSaver.min.js"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
   </head>
   <body>
     <div class="App">
@@ -50,6 +51,28 @@
             <button onclick="setPosition('custom')">Custom</button>
           </div>
         </div>
+        <!-- Add Text -->
+        <div class="text-add">
+          <input
+            type="text"
+            id="canvas-text-input"
+            placeholder="Enter your text here..." />
+          <div>
+            <select id="text-font">
+              <option value="Arial">Arial</option>
+              <option value="Sans">Sans</option>
+              <option value="Roboto">Roboto</option>
+            </select>
+            <select id="text-font-weight">
+              <option selected value="normal">Normal</option>
+              <option value="bold">Bold</option>
+              <option value="bolder">Bolder</option>
+              <option value="lighter">Lighter</option>
+            </select>
+            <button onclick="addTextToCanvas()">Add Text</button>
+          </div>
+        </div>
+
         <!-- Color Options Will Be Displayed -->
         <div class="color-list"></div>
         <!-- Size options will be displayed -->
